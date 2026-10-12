@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:0eb589a66f1fa54058e84eb5@gamedev-live.example
-DTSTAMP:20261012T085708Z
+DTSTAMP:20261012T201631Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -23,8 +23,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  요\n적합성: C++ / Unreal / 게임플레이 우선\n기졸업자: 재
  학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근
  무지: 펄어비스 홈 원 (경기도 과천시 과천대로2길 48)\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-12T17
- :46:01.710277+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 
+ 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T05
+ :16:31.781650+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 
  근거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://www.pearlabyss.co
  m/ko-KR/Company/Careers/detail?_jobOpeningNo=562\n자동 규칙 분류. 
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ff1a102aa73c567987829e23@gamedev-live.example
-DTSTAMP:20261012T085708Z
+DTSTAMP:20261012T201631Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -58,7 +58,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  eal / 게임플레이 우선\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: 펄어비스 홈 원
   (경기도 과천시 과천대로2길 48)\n확인 방식: direct_page_par
- sed\n최근 원문/API 확인: 2026-10-12T17:46:01.710277+09:00\n첫 발
+ sed\n최근 원문/API 확인: 2026-10-13T05:16:31.781650+09:00\n첫 발
  견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확인\
  n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://www.pearlabyss.com/ko-KR/Company/Careers/detai
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1405b6ac332cea9ac026f46a@gamedev-live.example
-DTSTAMP:20261012T085708Z
+DTSTAMP:20261012T201631Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -91,7 +91,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  Unreal / 게임플레이 우선\n기졸업자: 재학생 전용 제한 미
  발견 · 학위/비자 등은 원문 확인\n근무지: 펄어비스 홈 
  원 (경기도 과천시 과천대로2길 48)\n확인 방식: direct_page_
- parsed\n최근 원문/API 확인: 2026-10-12T17:46:01.710277+09:00\n첫 
+ parsed\n최근 원문/API 확인: 2026-10-13T05:16:31.781650+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.pearlabyss.com/ko-KR/Company/Careers
@@ -110,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a871d791d067eb46a3af410e@gamedev-live.example
-DTSTAMP:20261012T085708Z
+DTSTAMP:20261012T201631Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -125,7 +125,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: 펄어비스 홈 원 (경기도 과천시 과천
  대로2길 48)\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-12T17:46:01.710277+09:00\n첫 발견: 2026-10-12T17:46:01.710
+ 인: 2026-10-13T05:16:31.781650+09:00\n첫 발견: 2026-10-12T17:46:01.710
  277+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 
  시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https:
  //www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=859\n자

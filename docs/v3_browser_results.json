@@ -1,0 +1,34 @@
+{
+  "scope": "Offline DOM with mocked JSON fetch only. Managed browser blocked navigation; public-page renderer was NOT live-tested. No employer/API, GitHub deployment or iCloud refresh verification.",
+  "tests": [
+    {
+      "test": "undeployed_warning_visible",
+      "passed": true
+    },
+    {
+      "test": "all_43_registry_entries_plus_optional_search_visible",
+      "passed": true
+    },
+    {
+      "test": "official_company_filter_31",
+      "passed": true
+    },
+    {
+      "test": "official_program_filter_3",
+      "passed": true
+    },
+    {
+      "test": "jobboard_filter_9",
+      "passed": true
+    },
+    {
+      "test": "empty_results_not_zero_vacancies",
+      "passed": true
+    },
+    {
+      "test": "no_dashboard_javascript_errors",
+      "passed": true
+    }
+  ],
+  "passed": 7
+}

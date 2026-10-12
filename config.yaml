@@ -1,0 +1,965 @@
+# Public metadata only. Do not put passwords, résumés, or application records here.
+version: 3
+timezone: Asia/Seoul
+max_details_per_scan: 120
+max_listing_pages_per_source: 3
+max_requests_per_run: 900
+max_requests_per_domain: 100
+request_timeout_seconds: 10
+request_delay_seconds: 1.0
+review_after_days: 2
+stale_after_hours: 48
+cancelled_retention_days: 30
+sources:
+- id: pearlabyss
+  name: 펄어비스
+  url: https://www.pearlabyss.com/ko-KR/Company/Careers/List
+  source_class: official_careers
+  mode: html
+  kind: pearlabyss
+  company: 펄어비스
+  domains:
+  - pearlabyss.com
+  targets:
+  - 펄어비스
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.pearlabyss.com/ko-KR/Company/Careers/List
+  reference_checked: '2026-10-08'
+  reference_status: listing_visible
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: nexon
+  name: 넥슨 그룹
+  url: https://careers.nexon.com/recruit
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 넥슨 그룹
+  domains:
+  - careers.nexon.com
+  targets:
+  - 넥슨코리아
+  - 넥슨게임즈
+  - 네오플
+  - 민트로켓
+  - 넥슨유니버스
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://careers.nexon.com/recruit
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - nexon.com
+  - nexon.co.kr
+- id: nexongames
+  name: 넥슨게임즈 · 공식 법인 필터
+  url: https://careers.nexon.com/recruit?corpCodes=AG
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 넥슨게임즈
+  domains:
+  - careers.nexon.com
+  - nexongames.co.kr
+  targets:
+  - 넥슨게임즈
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.nexongames.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  entry_points:
+  - https://www.nexongames.co.kr/adopt/job.php
+  browser_resource_domains:
+  - nexon.com
+  - nexon.co.kr
+- id: neople
+  name: 네오플 · 공식 채용 경로
+  url: https://www.neople.co.kr/recruit
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 네오플
+  domains:
+  - neople.co.kr
+  - careers.nexon.com
+  targets:
+  - 네오플
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.neople.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_landing
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - nexon.com
+  - nexon.co.kr
+- id: mintrocket
+  name: 민트로켓 · 공식 채용 경로
+  url: https://www.mintrock.et/en/careers/careers.php
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 민트로켓
+  domains:
+  - mintrock.et
+  - careers.nexon.com
+  targets:
+  - 민트로켓
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://mintrocketgames.com/
+  reference_checked: '2026-10-08'
+  reference_status: official_landing
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: smilegate
+  name: 스마일게이트 그룹
+  url: https://rct.smilegate.com/apply/announce
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 스마일게이트 그룹
+  domains:
+  - rct.smilegate.com
+  targets:
+  - 스마일게이트 RPG
+  - 스마일게이트 엔터테인먼트
+  - 스마일게이트 메가포트
+  - 슈퍼크리에이티브
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://rct.smilegate.com/apply/announce
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - smilegate.com
+- id: nc
+  name: NC · 그룹 채용
+  url: https://careers.ncsoft.com/apply/list
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: NC
+  domains:
+  - careers.ncsoft.com
+  targets:
+  - NC
+  - 엔씨소프트
+  - NC 개발 스튜디오
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://careers.ncsoft.com/apply/list
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: shiftup
+  name: 시프트업
+  url: https://shiftup.co.kr/recruit/recruit.php
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 시프트업
+  domains:
+  - shiftup.co.kr
+  targets:
+  - 시프트업
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://shiftup.co.kr/recruit/recruit.php
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: neowiz
+  name: 네오위즈 · ROUND8
+  url: https://www.neowiz.com/kr/career/browse-job
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 네오위즈
+  domains:
+  - neowiz.com
+  targets:
+  - 네오위즈
+  - ROUND8
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.neowiz.com/kr/career/browse-job
+  reference_checked: '2026-10-08'
+  reference_status: web_access_blocked
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  patterns:
+  - /career/(?:browse-job|detail-job)/[^/?#]+
+  - /careers?/.*(?:detail|view|posting)[/?]
+- id: krafton
+  name: 크래프톤 · 스튜디오 채용
+  url: https://recruit.krafton.com/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 크래프톤
+  domains:
+  - recruit.krafton.com
+  - krafton.com
+  - krafton.recruiter.co.kr
+  - job-boards.greenhouse.io
+  - boards.greenhouse.io
+  targets:
+  - 크래프톤
+  - PUBG
+  - 블루홀
+  - 라이징윙스
+  - 드림모션
+  - inZOI
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://recruit.krafton.com/
+  reference_checked: '2026-10-08'
+  reference_status: web_fetch_failed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  entry_points:
+  - https://www.krafton.com/careers/jobs/
+- id: netmarble
+  name: 넷마블 · 개발 스튜디오
+  url: https://career.netmarble.com/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 넷마블
+  domains:
+  - career.netmarble.com
+  targets:
+  - 넷마블
+  - 넷마블네오
+  - 넷마블몬스터
+  - 넷마블엔투
+  - 넷마블에프앤씨
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://career.netmarble.com/
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: webzen
+  name: 웹젠
+  url: https://webzen.recruiter.co.kr/career/job
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 웹젠
+  domains:
+  - webzen.recruiter.co.kr
+  targets:
+  - 웹젠
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://webzen.recruiter.co.kr/career/job
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - recruiter.co.kr
+- id: com2us
+  name: 컴투스 그룹 · 공식 리다이렉트
+  url: https://recruit.com2us.com/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 컴투스 그룹
+  domains:
+  - recruit.com2us.com
+  - com2us.recruiter.co.kr
+  targets:
+  - 컴투스
+  - 컴투스홀딩스
+  - 컴투스 그룹 개발 스튜디오
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://recruit.com2us.com/
+  reference_checked: '2026-10-08'
+  reference_status: official_redirect
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  entry_points:
+  - https://com2us.recruiter.co.kr/career/career
+  browser_resource_domains:
+  - recruiter.co.kr
+- id: kakaogames
+  name: 카카오게임즈
+  url: https://recruit.kakaogames.com/ko/joinjuskr
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 카카오게임즈
+  domains:
+  - recruit.kakaogames.com
+  targets:
+  - 카카오게임즈
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://recruit.kakaogames.com/ko/joinjuskr
+  reference_checked: '2026-10-08'
+  reference_status: web_access_blocked
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: devsisters
+  name: 데브시스터즈
+  url: https://careers.devsisters.com/ko/home
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 데브시스터즈
+  domains:
+  - careers.devsisters.com
+  - devsisters.career.greetinghr.com
+  targets:
+  - 데브시스터즈
+  - 쿠키런 개발팀
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://careers.devsisters.com/ko/home
+  reference_checked: '2026-10-08'
+  reference_status: listing_visible
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  entry_points:
+  - https://careers.devsisters.com/ko/position
+  browser_resource_domains:
+  - greetinghr.com
+- id: lionheart
+  name: 라이온하트 스튜디오
+  url: https://career.lionheart.co.kr/recruit
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 라이온하트 스튜디오
+  domains:
+  - career.lionheart.co.kr
+  targets:
+  - 라이온하트 스튜디오
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://career.lionheart.co.kr/recruit
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - ninehire.com
+- id: wemade
+  name: 위메이드
+  url: https://recruit.wemade.com/oz6xlsi9
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 위메이드
+  domains:
+  - recruit.wemade.com
+  targets:
+  - 위메이드
+  - 위메이드 개발 스튜디오
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://recruit.wemade.com/oz6xlsi9
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - ninehire.com
+- id: nhn
+  name: NHN · 게임 프로그래밍 선별
+  url: https://careers.nhn.com/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: NHN
+  domains:
+  - careers.nhn.com
+  targets:
+  - NHN
+  - NHN 게임 개발팀
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.nhn.com/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: npixel
+  name: 엔픽셀
+  url: https://recruit.npixel.co.kr/recruit
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 엔픽셀
+  domains:
+  - recruit.npixel.co.kr
+  targets:
+  - 엔픽셀
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.npixel.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - ninehire.com
+- id: five_min_lab
+  name: 5민랩 · 공식 Greenhouse 공고
+  url: https://job-boards.greenhouse.io/5minlab
+  source_class: official_careers
+  mode: public_api
+  kind: greenhouse
+  company: 5민랩
+  domains:
+  - job-boards.greenhouse.io
+  - boards.greenhouse.io
+  - 5minlab.com
+  targets:
+  - 5민랩
+  priority: 0
+  render_js: false
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://5minlab.com/ko/careers_kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  board_token: 5minlab
+- id: xlgames
+  name: 엑스엘게임즈
+  url: https://xlgames.recruiter.co.kr/appsite/company/index
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 엑스엘게임즈
+  domains:
+  - xlgames.recruiter.co.kr
+  targets:
+  - 엑스엘게임즈
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.xlgames.com/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - recruiter.co.kr
+- id: kog
+  name: KOG · 근무지 별도 확인
+  url: https://www.kog.co.kr/recruit/info
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: KOG
+  domains:
+  - kog.co.kr
+  targets:
+  - KOG
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.kog.co.kr/recruit/info
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: devcat
+  name: 데브캣
+  url: https://devcat.com/careers
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 데브캣
+  domains:
+  - devcat.com
+  - careers.nexon.com
+  targets:
+  - 데브캣
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://devcat.com/careers
+  reference_checked: '2026-10-08'
+  reference_status: official_landing
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - nexon.com
+  - nexon.co.kr
+- id: supercat
+  name: 슈퍼캣
+  url: https://apply.supercat.co.kr/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 슈퍼캣
+  domains:
+  - apply.supercat.co.kr
+  targets:
+  - 슈퍼캣
+  - 아이스캣
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.supercat.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+  browser_resource_domains:
+  - greetinghr.com
+- id: hound13
+  name: 하운드13 · 회사가 연결한 공고 포함
+  url: https://www.hound13.com/en
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 하운드13
+  domains:
+  - hound13.com
+  - gamejob.co.kr
+  targets:
+  - 하운드13
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.hound13.com/en
+  reference_checked: '2026-10-08'
+  reference_status: employer_links_to_gamejob
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: joycity
+  name: 조이시티 · 공식 채용 경로 탐색
+  url: https://corp.joycity.com/ko/main
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 조이시티
+  domains:
+  - corp.joycity.com
+  targets:
+  - 조이시티
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.joycity.com/
+  reference_checked: '2026-10-08'
+  reference_status: official_landing
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: gravity
+  name: 그라비티
+  url: https://www.gravity.co.kr/en/recruit/jobopening/list
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 그라비티
+  domains:
+  - gravity.co.kr
+  targets:
+  - 그라비티
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.gravity.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: playwith
+  name: 플레이위드
+  url: https://www.playwith.co.kr/Recruit
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 플레이위드
+  domains:
+  - playwith.co.kr
+  targets:
+  - 플레이위드
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.playwith.co.kr/
+  reference_checked: '2026-10-08'
+  reference_status: official_link_followed
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: madngine
+  name: 매드엔진 · 채용 경로 재확인
+  url: https://www.madngine.com/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 매드엔진
+  domains:
+  - madngine.com
+  targets:
+  - 매드엔진
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.madngine.com/
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: neptune
+  name: 넵튠 · 채용 경로 재확인
+  url: https://www.neptunecompany.kr/
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 넵튠
+  domains:
+  - neptunecompany.kr
+  targets:
+  - 넵튠
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.neptunecompany.kr/
+  reference_checked: '2026-10-08'
+  reference_status: javascript_or_shell
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: thumbage
+  name: 썸에이지 · 공식 채용 경로 탐색
+  url: https://www.thumbage.co.kr/Main
+  source_class: official_careers
+  mode: html
+  kind: official
+  company: 썸에이지
+  domains:
+  - thumbage.co.kr
+  targets:
+  - 썸에이지
+  priority: 0
+  render_js: true
+  max_pages: 3
+  max_portals: 2
+  reference_url: https://www.thumbage.co.kr/Main
+  reference_checked: '2026-10-08'
+  reference_status: official_landing
+  note: Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied
+    by registration. Targets are a watchlist, not proof of every subsidiary being scanned.
+- id: nextorial
+  name: 넥토리얼 · 공식 프로그램
+  url: https://nexon-tutorial.com/
+  source_class: official_program
+  mode: html
+  kind: official
+  company: 넥토리얼
+  domains:
+  - nexon-tutorial.com
+  - careers.nexon.com
+  priority: 1
+  render_js: true
+  max_pages: 2
+  max_portals: 2
+  reference_url: https://nexon-tutorial.com/
+  reference_checked: '2026-10-08'
+  reference_status: program_text_visible_cached_not_live_intake
+  note: Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.
+- id: com2us_genius
+  name: 컴투스 GENIUS · 공식 프로그램
+  url: https://www.welcom2us.com/
+  source_class: official_program
+  mode: html
+  kind: official
+  company: 컴투스 GENIUS
+  domains:
+  - welcom2us.com
+  - recruit.com2us.com
+  - com2us.recruiter.co.kr
+  priority: 1
+  render_js: true
+  max_pages: 2
+  max_portals: 2
+  reference_url: https://www.welcom2us.com/
+  reference_checked: '2026-10-08'
+  reference_status: program_text_visible_cached_not_live_intake
+  note: Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.
+- id: smilegate_intern
+  name: 스마일게이트 · 공식 인턴십 안내
+  url: https://rct.smilegate.com/student/internship?type=job
+  source_class: official_program
+  mode: html
+  kind: official
+  company: 스마일게이트
+  domains:
+  - rct.smilegate.com
+  priority: 1
+  render_js: true
+  max_pages: 2
+  max_portals: 2
+  reference_url: https://rct.smilegate.com/student/internship?type=job
+  reference_checked: '2026-10-08'
+  reference_status: program_text_visible_cached_not_live_intake
+  note: Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.
+- id: gamejob
+  name: 게임잡 GameJob
+  url: https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall
+  mode: html
+  kind: gamejob
+  domains:
+  - gamejob.co.kr
+  note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: jobkorea
+  name: 잡코리아 JobKorea
+  url: https://www.jobkorea.co.kr/recruit/joblist
+  mode: html
+  kind: jobkorea
+  domains:
+  - jobkorea.co.kr
+  note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: saramin
+  name: 사람인 Saramin · 승인 API
+  url: https://oapi.saramin.co.kr/guide/job-search
+  mode: api
+  kind: html
+  domains:
+  - saramin.co.kr
+  note: Not active without authorized data access.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: indeed
+  name: Indeed Korea · 허가된 연동/직접 확인
+  url: https://kr.indeed.com/jobs?q=Unreal+game+developer&l=South+Korea
+  mode: authorized_only
+  kind: html
+  domains:
+  - indeed.com
+  note: No Indeed scraper. Search-discovered links stay unverified; never become calendar deadlines.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: wanted
+  name: 원티드 Wanted
+  url: https://www.wanted.co.kr/wdlist
+  mode: html
+  kind: html
+  domains:
+  - wanted.co.kr
+  patterns:
+  - wanted\.co\.kr/wd/\d+
+  note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: incruit
+  name: 인크루트 Incruit
+  url: https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84
+  mode: html
+  kind: html
+  domains:
+  - job.incruit.com
+  patterns:
+  - incruit\.com/.*(?:jobpost|jobdb_info|jobs/\d+)
+  note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: jumpit
+  name: 점핏 Jumpit · 직접 확인
+  url: https://jumpit.saramin.co.kr/
+  mode: manual
+  kind: html
+  domains:
+  - jumpit.saramin.co.kr
+  note: Not active without authorized data access.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: linkedin
+  name: LinkedIn · 허가된 연동/직접 확인
+  url: https://www.linkedin.com/jobs/
+  mode: authorized_only
+  kind: html
+  domains:
+  - linkedin.com
+  note: Not active without authorized data access.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+- id: rocketpunch
+  name: 로켓펀치 · 직접 확인
+  url: https://www.rocketpunch.com/jobs
+  mode: manual
+  kind: html
+  domains:
+  - rocketpunch.com
+  note: Not active without authorized data access.
+  source_class: job_board
+  priority: 2
+  render_js: false
+  max_portals: 0
+  max_pages: 2
+saramin:
+  enabled: false
+  max_records_per_run: 120
+  keywords:
+  - 언리얼
+  - 게임개발
+  - 게임프로그래머
+  - 클라이언트
+naver:
+  enabled: false
+  max_queries_per_run: 24
+  queries:
+  - site:gamejob.co.kr/Recruit/GI_Read 게임 프로그래머 신입
+  - site:gamejob.co.kr/Recruit/GI_Read 언리얼 경력무관
+  - site:gamejob.co.kr/Recruit/GI_Read C++ 경력 1년 3년
+  - site:jobkorea.co.kr/Recruit/GI_Read 게임 클라이언트 신입
+  - site:jobkorea.co.kr/Recruit/GI_Read Unreal 경력무관
+  - site:saramin.co.kr 게임 C++ 신입 경력무관
+  - site:kr.indeed.com Unreal 게임 개발
+  - site:wanted.co.kr/wd 게임 클라이언트 주니어
+  - site:incruit.com 게임 프로그래머 신입 인턴
+  - site:pearlabyss.com/Company/Careers 게임 엔지니어 인턴
+  - site:careers.nexon.com 게임 프로그래머 신입 인턴
+  - site:rct.smilegate.com 언리얼 클라이언트 신입
+  - site:neowiz.com 게임 개발 신입
+  - site:recruit.krafton.com 게임 신입 인턴
+  - site:career.netmarble.com 클라이언트 신입
+  - site:shiftup.co.kr 프로그래머 인턴
+  - site:careers.ncsoft.com 게임 프로그래밍 신입
+  - site:webzen.recruiter.co.kr 인턴 클라이언트
+  - site:recruit.kakaogames.com 신입 프로그래머
+  - site:careers.devsisters.com 게임 프로그래머 신입
+  - site:recruit.wemade.com 게임 클라이언트 신입
+  - site:welcom2us.com GENIUS 게임 클라이언트
+  - site:career.lionheart.co.kr 언리얼 프로그래머
+  - site:gamejob.co.kr 게임 애니메이션 AI 렌더링 프로그래머 신입
+  - site:www.pearlabyss.com 게임 프로그래머 신입 경력무관 인턴
+  - site:careers.nexon.com 게임 프로그래머 신입 경력무관 인턴
+  - site:www.neople.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.mintrock.et 게임 프로그래머 신입 경력무관 인턴
+  - site:rct.smilegate.com 게임 프로그래머 신입 경력무관 인턴
+  - site:careers.ncsoft.com 게임 프로그래머 신입 경력무관 인턴
+  - site:shiftup.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.neowiz.com 게임 프로그래머 신입 경력무관 인턴
+  - site:recruit.krafton.com 게임 프로그래머 신입 경력무관 인턴
+  - site:career.netmarble.com 게임 프로그래머 신입 경력무관 인턴
+  - site:webzen.recruiter.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:recruit.com2us.com 게임 프로그래머 신입 경력무관 인턴
+  - site:recruit.kakaogames.com 게임 프로그래머 신입 경력무관 인턴
+  - site:careers.devsisters.com 게임 프로그래머 신입 경력무관 인턴
+  - site:career.lionheart.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:recruit.wemade.com 게임 프로그래머 신입 경력무관 인턴
+  - site:careers.nhn.com 게임 프로그래머 신입 경력무관 인턴
+  - site:recruit.npixel.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:job-boards.greenhouse.io 게임 프로그래머 신입 경력무관 인턴
+  - site:xlgames.recruiter.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.kog.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:devcat.com 게임 프로그래머 신입 경력무관 인턴
+  - site:apply.supercat.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.hound13.com 게임 프로그래머 신입 경력무관 인턴
+  - site:corp.joycity.com 게임 프로그래머 신입 경력무관 인턴
+  - site:www.gravity.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.playwith.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.madngine.com 게임 프로그래머 신입 경력무관 인턴
+  - site:www.neptunecompany.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:www.thumbage.co.kr 게임 프로그래머 신입 경력무관 인턴
+  - site:nexon-tutorial.com 게임 프로그래머 신입 경력무관 인턴
+  - site:www.welcom2us.com 게임 프로그래머 신입 경력무관 인턴
+  rotation_note: Queries rotate across runs; optional API does not replace direct employer-site checks.
+max_runtime_seconds: 1080
+max_listing_runtime_seconds: 720
+browser:
+  enabled: true
+  max_pages_per_run: 24
+  timeout_ms: 18000
+  settle_ms: 1800
+max_pending_leads: 1800

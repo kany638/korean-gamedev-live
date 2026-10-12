@@ -1,0 +1,26 @@
+{
+  "check_date": "2026-10-08",
+  "results": [
+    {
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
+      "status": "network_failed",
+      "error_class": "ConnectionError",
+      "seconds": 5.01,
+      "note": "Build environment could not fetch this site. No live collection success established."
+    },
+    {
+      "url": "https://recruit.com2us.com/",
+      "status": "network_failed",
+      "error_class": "ConnectionError",
+      "seconds": 0.0,
+      "note": "Build environment could not fetch this site. No live collection success established."
+    },
+    {
+      "url": "https://boards-api.greenhouse.io/v1/boards/5minlab/jobs?content=true",
+      "status": "network_failed",
+      "error_class": "ConnectionError",
+      "seconds": 5.01,
+      "note": "Build environment could not fetch this site. No live collection success established."
+    }
+  ]
+}

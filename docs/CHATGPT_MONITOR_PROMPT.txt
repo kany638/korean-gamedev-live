@@ -1,0 +1,45 @@
+Public-web recruitment monitoring instructions — not activated by this file
+
+Check official game-company career websites DIRECTLY on every scheduled run, alongside job boards. Prioritise official source announcements over search snippets and reposts. Follow the employer's explicitly linked public ATS careers/individual posting pages where permitted. Do not assume the group homepage covers every subsidiary. Do not claim a blocked/JavaScript-only/empty parse means no vacancies. No access-control/CAPTCHA/robots bypass.
+
+Target South Korean game-programming roles suited to an already-graduated computer-science applicant with no paid game-programming experience and a UE C++ God of War combat portfolio: 신입, 경력 0년, 경력무관, graduate-eligible conversion/experience internships, and minimum 1–3-year jobs as clearly labelled stretch applications. Prioritise C++/Unreal gameplay/client/combat/AI/character-animation/engine/rendering roles and Seoul/Pangyo; label other locations and secondary Unity/C#/HTML5/server/tools stacks. Academic/portfolio/IT work is not automatically paid game-programming experience. Check the actual minimum, not a senior range's maximum; do not equate 학력무관 with 경력무관. Exclude clearly senior/four-plus-minimum and students-only roles unless an explicit separate newcomer track exists.
+
+Check these configured official routes (a finite register, not every studio):
+- 펄어비스: https://www.pearlabyss.com/ko-KR/Company/Careers/List
+- 넥슨 그룹: https://careers.nexon.com/recruit
+- 넥슨게임즈 · 공식 법인 필터: https://careers.nexon.com/recruit?corpCodes=AG
+- 네오플 · 공식 채용 경로: https://www.neople.co.kr/recruit
+- 민트로켓 · 공식 채용 경로: https://www.mintrock.et/en/careers/careers.php
+- 스마일게이트 그룹: https://rct.smilegate.com/apply/announce
+- NC · 그룹 채용: https://careers.ncsoft.com/apply/list
+- 시프트업: https://shiftup.co.kr/recruit/recruit.php
+- 네오위즈 · ROUND8: https://www.neowiz.com/kr/career/browse-job
+- 크래프톤 · 스튜디오 채용: https://recruit.krafton.com/
+- 넷마블 · 개발 스튜디오: https://career.netmarble.com/
+- 웹젠: https://webzen.recruiter.co.kr/career/job
+- 컴투스 그룹 · 공식 리다이렉트: https://recruit.com2us.com/
+- 카카오게임즈: https://recruit.kakaogames.com/ko/joinjuskr
+- 데브시스터즈: https://careers.devsisters.com/ko/home
+- 라이온하트 스튜디오: https://career.lionheart.co.kr/recruit
+- 위메이드: https://recruit.wemade.com/oz6xlsi9
+- NHN · 게임 프로그래밍 선별: https://careers.nhn.com/
+- 엔픽셀: https://recruit.npixel.co.kr/recruit
+- 5민랩 · 공식 Greenhouse 공고: https://job-boards.greenhouse.io/5minlab
+- 엑스엘게임즈: https://xlgames.recruiter.co.kr/appsite/company/index
+- KOG · 근무지 별도 확인: https://www.kog.co.kr/recruit/info
+- 데브캣: https://devcat.com/careers
+- 슈퍼캣: https://apply.supercat.co.kr/
+- 하운드13 · 회사가 연결한 공고 포함: https://www.hound13.com/en
+- 조이시티 · 공식 채용 경로 탐색: https://corp.joycity.com/ko/main
+- 그라비티: https://www.gravity.co.kr/en/recruit/jobopening/list
+- 플레이위드: https://www.playwith.co.kr/Recruit
+- 매드엔진 · 채용 경로 재확인: https://www.madngine.com/
+- 넵튠 · 채용 경로 재확인: https://www.neptunecompany.kr/
+- 썸에이지 · 공식 채용 경로 탐색: https://www.thumbage.co.kr/Main
+- 넥토리얼 · 공식 프로그램: https://nexon-tutorial.com/
+- 컴투스 GENIUS · 공식 프로그램: https://www.welcom2us.com/
+- 스마일게이트 · 공식 인턴십 안내: https://rct.smilegate.com/student/internship?type=job
+
+Also examine public/authorized GameJob, JobKorea, Saramin, Indeed, Wanted, Incruit, Jumpit, LinkedIn and RocketPunch sources where available; provider authorization restrictions still apply. Newly discovered appropriate studios outside this list can be considered, but source accessibility and actual eligibility must be verified.
+
+Notify only for genuinely new suitable roles, material requirement/deadline changes or urgent confirmed deadlines. Include employer, exact role, direct original posting URL, employment type, location, minimum experience, graduate eligibility, stack fit and exact confirmed deadline/timezone. Unknown closing dates stay unknown or until filled; historical forecast dates never become official 2027 deadlines. Distinguish discovery from verification and disclose significant source failures. Deduplicate notifications. This file does not give a task permission or infrastructure to edit iCloud/hosted feeds.

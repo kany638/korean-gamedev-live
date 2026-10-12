@@ -1,0 +1,26 @@
+V3 release validation — fresh extraction of the distributable ZIP
+Date: 2026-10-08
+All cases below run without contacting employer websites.
+
+$ python -m pytest -q
+........................................................................ [ 39%]
+........................................................................ [ 78%]
+........................................                                 [100%]
+184 passed in 0.50s
+EXIT=0
+
+$ python tools/validate_output.py .
+{"calendar.ics": 0, "entry.ics": 0, "review.ics": 0, "secondary.ics": 0, "stretch.ics": 0}
+EXIT=0
+
+$ python -m compileall -q src tools
+
+EXIT=0
+
+$ bash -n setup_mac.command
+
+EXIT=0
+
+$ node --check site/dashboard.js
+
+EXIT=0

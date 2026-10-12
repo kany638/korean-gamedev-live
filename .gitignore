@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*_private*
+local_output/
+reports/

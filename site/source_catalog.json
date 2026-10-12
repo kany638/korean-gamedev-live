@@ -1,0 +1,621 @@
+[
+  {
+    "id": "pearlabyss",
+    "mode": "html",
+    "name": "펄어비스",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "listing_visible",
+    "reference_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "펄어비스"
+    ],
+    "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List"
+  },
+  {
+    "id": "nexon",
+    "mode": "html",
+    "name": "넥슨 그룹",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://careers.nexon.com/recruit",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "넥슨코리아",
+      "넥슨게임즈",
+      "네오플",
+      "민트로켓",
+      "넥슨유니버스"
+    ],
+    "url": "https://careers.nexon.com/recruit"
+  },
+  {
+    "entry_points": [
+      "https://www.nexongames.co.kr/adopt/job.php"
+    ],
+    "id": "nexongames",
+    "mode": "html",
+    "name": "넥슨게임즈 · 공식 법인 필터",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.nexongames.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "넥슨게임즈"
+    ],
+    "url": "https://careers.nexon.com/recruit?corpCodes=AG"
+  },
+  {
+    "id": "neople",
+    "mode": "html",
+    "name": "네오플 · 공식 채용 경로",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_landing",
+    "reference_url": "https://www.neople.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "네오플"
+    ],
+    "url": "https://www.neople.co.kr/recruit"
+  },
+  {
+    "id": "mintrocket",
+    "mode": "html",
+    "name": "민트로켓 · 공식 채용 경로",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_landing",
+    "reference_url": "https://mintrocketgames.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "민트로켓"
+    ],
+    "url": "https://www.mintrock.et/en/careers/careers.php"
+  },
+  {
+    "id": "smilegate",
+    "mode": "html",
+    "name": "스마일게이트 그룹",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://rct.smilegate.com/apply/announce",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "스마일게이트 RPG",
+      "스마일게이트 엔터테인먼트",
+      "스마일게이트 메가포트",
+      "슈퍼크리에이티브"
+    ],
+    "url": "https://rct.smilegate.com/apply/announce"
+  },
+  {
+    "id": "nc",
+    "mode": "html",
+    "name": "NC · 그룹 채용",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://careers.ncsoft.com/apply/list",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "NC",
+      "엔씨소프트",
+      "NC 개발 스튜디오"
+    ],
+    "url": "https://careers.ncsoft.com/apply/list"
+  },
+  {
+    "id": "shiftup",
+    "mode": "html",
+    "name": "시프트업",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://shiftup.co.kr/recruit/recruit.php",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "시프트업"
+    ],
+    "url": "https://shiftup.co.kr/recruit/recruit.php"
+  },
+  {
+    "id": "neowiz",
+    "mode": "html",
+    "name": "네오위즈 · ROUND8",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "web_access_blocked",
+    "reference_url": "https://www.neowiz.com/kr/career/browse-job",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "네오위즈",
+      "ROUND8"
+    ],
+    "url": "https://www.neowiz.com/kr/career/browse-job"
+  },
+  {
+    "entry_points": [
+      "https://www.krafton.com/careers/jobs/"
+    ],
+    "id": "krafton",
+    "mode": "html",
+    "name": "크래프톤 · 스튜디오 채용",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "web_fetch_failed",
+    "reference_url": "https://recruit.krafton.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "크래프톤",
+      "PUBG",
+      "블루홀",
+      "라이징윙스",
+      "드림모션",
+      "inZOI"
+    ],
+    "url": "https://recruit.krafton.com/"
+  },
+  {
+    "id": "netmarble",
+    "mode": "html",
+    "name": "넷마블 · 개발 스튜디오",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://career.netmarble.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "넷마블",
+      "넷마블네오",
+      "넷마블몬스터",
+      "넷마블엔투",
+      "넷마블에프앤씨"
+    ],
+    "url": "https://career.netmarble.com/"
+  },
+  {
+    "id": "webzen",
+    "mode": "html",
+    "name": "웹젠",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://webzen.recruiter.co.kr/career/job",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "웹젠"
+    ],
+    "url": "https://webzen.recruiter.co.kr/career/job"
+  },
+  {
+    "entry_points": [
+      "https://com2us.recruiter.co.kr/career/career"
+    ],
+    "id": "com2us",
+    "mode": "html",
+    "name": "컴투스 그룹 · 공식 리다이렉트",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_redirect",
+    "reference_url": "https://recruit.com2us.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "컴투스",
+      "컴투스홀딩스",
+      "컴투스 그룹 개발 스튜디오"
+    ],
+    "url": "https://recruit.com2us.com/"
+  },
+  {
+    "id": "kakaogames",
+    "mode": "html",
+    "name": "카카오게임즈",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "web_access_blocked",
+    "reference_url": "https://recruit.kakaogames.com/ko/joinjuskr",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "카카오게임즈"
+    ],
+    "url": "https://recruit.kakaogames.com/ko/joinjuskr"
+  },
+  {
+    "entry_points": [
+      "https://careers.devsisters.com/ko/position"
+    ],
+    "id": "devsisters",
+    "mode": "html",
+    "name": "데브시스터즈",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "listing_visible",
+    "reference_url": "https://careers.devsisters.com/ko/home",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "데브시스터즈",
+      "쿠키런 개발팀"
+    ],
+    "url": "https://careers.devsisters.com/ko/home"
+  },
+  {
+    "id": "lionheart",
+    "mode": "html",
+    "name": "라이온하트 스튜디오",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://career.lionheart.co.kr/recruit",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "라이온하트 스튜디오"
+    ],
+    "url": "https://career.lionheart.co.kr/recruit"
+  },
+  {
+    "id": "wemade",
+    "mode": "html",
+    "name": "위메이드",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://recruit.wemade.com/oz6xlsi9",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "위메이드",
+      "위메이드 개발 스튜디오"
+    ],
+    "url": "https://recruit.wemade.com/oz6xlsi9"
+  },
+  {
+    "id": "nhn",
+    "mode": "html",
+    "name": "NHN · 게임 프로그래밍 선별",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.nhn.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "NHN",
+      "NHN 게임 개발팀"
+    ],
+    "url": "https://careers.nhn.com/"
+  },
+  {
+    "id": "npixel",
+    "mode": "html",
+    "name": "엔픽셀",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://www.npixel.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "엔픽셀"
+    ],
+    "url": "https://recruit.npixel.co.kr/recruit"
+  },
+  {
+    "id": "five_min_lab",
+    "mode": "public_api",
+    "name": "5민랩 · 공식 Greenhouse 공고",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://5minlab.com/ko/careers_kr/",
+    "render_js": false,
+    "source_class": "official_careers",
+    "targets": [
+      "5민랩"
+    ],
+    "url": "https://job-boards.greenhouse.io/5minlab"
+  },
+  {
+    "id": "xlgames",
+    "mode": "html",
+    "name": "엑스엘게임즈",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.xlgames.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "엑스엘게임즈"
+    ],
+    "url": "https://xlgames.recruiter.co.kr/appsite/company/index"
+  },
+  {
+    "id": "kog",
+    "mode": "html",
+    "name": "KOG · 근무지 별도 확인",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://www.kog.co.kr/recruit/info",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "KOG"
+    ],
+    "url": "https://www.kog.co.kr/recruit/info"
+  },
+  {
+    "id": "devcat",
+    "mode": "html",
+    "name": "데브캣",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_landing",
+    "reference_url": "https://devcat.com/careers",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "데브캣"
+    ],
+    "url": "https://devcat.com/careers"
+  },
+  {
+    "id": "supercat",
+    "mode": "html",
+    "name": "슈퍼캣",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.supercat.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "슈퍼캣",
+      "아이스캣"
+    ],
+    "url": "https://apply.supercat.co.kr/"
+  },
+  {
+    "id": "hound13",
+    "mode": "html",
+    "name": "하운드13 · 회사가 연결한 공고 포함",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "employer_links_to_gamejob",
+    "reference_url": "https://www.hound13.com/en",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "하운드13"
+    ],
+    "url": "https://www.hound13.com/en"
+  },
+  {
+    "id": "joycity",
+    "mode": "html",
+    "name": "조이시티 · 공식 채용 경로 탐색",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_landing",
+    "reference_url": "https://www.joycity.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "조이시티"
+    ],
+    "url": "https://corp.joycity.com/ko/main"
+  },
+  {
+    "id": "gravity",
+    "mode": "html",
+    "name": "그라비티",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.gravity.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "그라비티"
+    ],
+    "url": "https://www.gravity.co.kr/en/recruit/jobopening/list"
+  },
+  {
+    "id": "playwith",
+    "mode": "html",
+    "name": "플레이위드",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_link_followed",
+    "reference_url": "https://www.playwith.co.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "플레이위드"
+    ],
+    "url": "https://www.playwith.co.kr/Recruit"
+  },
+  {
+    "id": "madngine",
+    "mode": "html",
+    "name": "매드엔진 · 채용 경로 재확인",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://www.madngine.com/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "매드엔진"
+    ],
+    "url": "https://www.madngine.com/"
+  },
+  {
+    "id": "neptune",
+    "mode": "html",
+    "name": "넵튠 · 채용 경로 재확인",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "javascript_or_shell",
+    "reference_url": "https://www.neptunecompany.kr/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "넵튠"
+    ],
+    "url": "https://www.neptunecompany.kr/"
+  },
+  {
+    "id": "thumbage",
+    "mode": "html",
+    "name": "썸에이지 · 공식 채용 경로 탐색",
+    "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "official_landing",
+    "reference_url": "https://www.thumbage.co.kr/Main",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "썸에이지"
+    ],
+    "url": "https://www.thumbage.co.kr/Main"
+  },
+  {
+    "id": "nextorial",
+    "mode": "html",
+    "name": "넥토리얼 · 공식 프로그램",
+    "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "program_text_visible_cached_not_live_intake",
+    "reference_url": "https://nexon-tutorial.com/",
+    "render_js": true,
+    "source_class": "official_program",
+    "url": "https://nexon-tutorial.com/"
+  },
+  {
+    "id": "com2us_genius",
+    "mode": "html",
+    "name": "컴투스 GENIUS · 공식 프로그램",
+    "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "program_text_visible_cached_not_live_intake",
+    "reference_url": "https://www.welcom2us.com/",
+    "render_js": true,
+    "source_class": "official_program",
+    "url": "https://www.welcom2us.com/"
+  },
+  {
+    "id": "smilegate_intern",
+    "mode": "html",
+    "name": "스마일게이트 · 공식 인턴십 안내",
+    "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
+    "reference_checked": "2026-10-08",
+    "reference_status": "program_text_visible_cached_not_live_intake",
+    "reference_url": "https://rct.smilegate.com/student/internship?type=job",
+    "render_js": true,
+    "source_class": "official_program",
+    "url": "https://rct.smilegate.com/student/internship?type=job"
+  },
+  {
+    "id": "gamejob",
+    "mode": "html",
+    "name": "게임잡 GameJob",
+    "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall"
+  },
+  {
+    "id": "jobkorea",
+    "mode": "html",
+    "name": "잡코리아 JobKorea",
+    "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://www.jobkorea.co.kr/recruit/joblist"
+  },
+  {
+    "id": "saramin",
+    "mode": "api",
+    "name": "사람인 Saramin · 승인 API",
+    "note": "Not active without authorized data access.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://oapi.saramin.co.kr/guide/job-search"
+  },
+  {
+    "id": "indeed",
+    "mode": "authorized_only",
+    "name": "Indeed Korea · 허가된 연동/직접 확인",
+    "note": "No Indeed scraper. Search-discovered links stay unverified; never become calendar deadlines.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://kr.indeed.com/jobs?q=Unreal+game+developer&l=South+Korea"
+  },
+  {
+    "id": "wanted",
+    "mode": "html",
+    "name": "원티드 Wanted",
+    "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://www.wanted.co.kr/wdlist"
+  },
+  {
+    "id": "incruit",
+    "mode": "html",
+    "name": "인크루트 Incruit",
+    "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84"
+  },
+  {
+    "id": "jumpit",
+    "mode": "manual",
+    "name": "점핏 Jumpit · 직접 확인",
+    "note": "Not active without authorized data access.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://jumpit.saramin.co.kr/"
+  },
+  {
+    "id": "linkedin",
+    "mode": "authorized_only",
+    "name": "LinkedIn · 허가된 연동/직접 확인",
+    "note": "Not active without authorized data access.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": "rocketpunch",
+    "mode": "manual",
+    "name": "로켓펀치 · 직접 확인",
+    "note": "Not active without authorized data access.",
+    "render_js": false,
+    "source_class": "job_board",
+    "url": "https://www.rocketpunch.com/jobs"
+  }
+]

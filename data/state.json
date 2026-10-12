@@ -1,8 +1,785 @@
 {
-  "jobs": {},
+  "jobs": {
+    "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285027": {
+      "company": "(주)스마일게이트 슈퍼크리에이티브 지점",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "정규직",
+      "experience": "경력 3년 이상 요구 · 도전 지원",
+      "experience_bucket": "stretch",
+      "experience_evidence": "3년 이상",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "보조 분야 · Unity/C#/서버/툴 등 기술스택 확인",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "경기 > 성남시 분당구",
+      "max_years": null,
+      "min_years": 3,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 55,
+      "source": "gamejob",
+      "source_class": "job_board",
+      "status": "open",
+      "tier": "secondary",
+      "title": "[에픽세븐] 컨텐츠 프로그래머",
+      "type": "job",
+      "until_filled": true,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285027",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285795": {
+      "company": "스마일게이트",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "정규직",
+      "experience": "경력무관",
+      "experience_bucket": "no_experience_requirement",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "게임 클라이언트/엔진/프로그래밍 · 스택 확인",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "경기 > 성남시 분당구",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 75,
+      "source": "gamejob",
+      "source_class": "job_board",
+      "status": "open",
+      "tier": "primary",
+      "title": "[LOST ARK] 게임 데이터엔지니어 담당 모집",
+      "type": "job",
+      "until_filled": true,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285795",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.jobkorea.co.kr/Recruit/GI_Read/50143325?logpath=21&rPageCode=SL&sc=611&sn=6": {
+      "company": "㈜준텔레콤",
+      "deadline": "2026-11-11",
+      "deadline_at": null,
+      "deadline_basis": "공고 JobPosting.validThrough",
+      "employment": "정규직",
+      "experience": "신입 / 경력 0년 지원 경로",
+      "experience_bucket": "entry",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "jobkorea",
+      "source_class": "job_board",
+      "status": "open",
+      "tier": "review",
+      "title": "[KT공식] 2026 하반기 신입 경력 공채 - 판매사 & CS (창원 마산 진해 김해)",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143325?logpath=21&rPageCode=SL&sc=611&sn=6",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=138": {
+      "company": "KOG",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "인턴 · 전환 여부 확인",
+      "experience": "경력 최소요건 확인 필요",
+      "experience_bucket": "unknown",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "kog",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "review",
+      "title": "채용 전환형 상시 인턴 (클라이언트)",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.kog.co.kr/recruit/apply?uid=138",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=144": {
+      "company": "KOG",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "인턴 · 전환 여부 확인",
+      "experience": "경력 최소요건 확인 필요",
+      "experience_bucket": "unknown",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "kog",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "review",
+      "title": "채용 전환형 상시 인턴 (애니메이션)",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.kog.co.kr/recruit/apply?uid=144",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=168": {
+      "company": "KOG",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "인턴 · 전환 여부 확인",
+      "experience": "경력 최소요건 확인 필요",
+      "experience_bucket": "unknown",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "kog",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "review",
+      "title": "채용 전환형 상시 인턴 (3D캐릭터)",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.kog.co.kr/recruit/apply?uid=168",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=206": {
+      "company": "KOG",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "인턴 · 전환 여부 확인",
+      "experience": "경력 최소요건 확인 필요",
+      "experience_bucket": "unknown",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "kog",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "review",
+      "title": "채용 전환형 상시 인턴 (2D캐릭터)",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.kog.co.kr/recruit/apply?uid=206",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=427": {
+      "company": "펄어비스",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "인턴 · 전환 여부 확인",
+      "experience": "경력무관",
+      "experience_bucket": "no_experience_requirement",
+      "experience_evidence": "",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "모집 프로그램 · 프로그래밍 직무 및 졸업자 자격 확인",
+      "graduate_eligibility": "인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "근무지 확인 필요",
+      "max_years": null,
+      "min_years": null,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 30,
+      "source": "pearlabyss",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "review",
+      "title": "인재 Pool 인재풀 인재풀 신입·경력·경력무관 정규직·계약직·인턴·아르바이트·프리랜서 홈 원 기타 기타 신입·경력·경력무관 정규직·계약직·인턴·아르바이트·프리랜서 홈 원",
+      "type": "program",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=427",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=562": {
+      "company": "펄어비스",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "고용형태 확인 필요",
+      "experience": "경력 3년 이상 요구 · 도전 지원",
+      "experience_bucket": "stretch",
+      "experience_evidence": "3년 이상",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "C++ / Unreal / 게임플레이 우선",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "펄어비스 홈 원 (경기도 과천시 과천대로2길 48)",
+      "max_years": null,
+      "min_years": 3,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 80,
+      "source": "pearlabyss",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "stretch",
+      "title": "검은사막 온라인 게임플레이 프로그래머 모집",
+      "type": "job",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=562",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=6": {
+      "company": "펄어비스",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "고용형태 확인 필요",
+      "experience": "경력 2년 이상 요구 · 도전 지원",
+      "experience_bucket": "stretch",
+      "experience_evidence": "2년 이상",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "C++ / Unreal / 게임플레이 우선",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "펄어비스 홈 원 (경기도 과천시 과천대로2길 48)",
+      "max_years": null,
+      "min_years": 2,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 80,
+      "source": "pearlabyss",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "stretch",
+      "title": "게임 엔진 프로그래머 모집",
+      "type": "job",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=6",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=7": {
+      "company": "펄어비스",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "고용형태 확인 필요",
+      "experience": "경력 3년 이상 요구 · 도전 지원",
+      "experience_bucket": "stretch",
+      "experience_evidence": "3년 이상",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "C++ / Unreal / 게임플레이 우선",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "펄어비스 홈 원 (경기도 과천시 과천대로2길 48)",
+      "max_years": null,
+      "min_years": 3,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 80,
+      "source": "pearlabyss",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "stretch",
+      "title": "게임플레이 프로그래머 모집",
+      "type": "job",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=7",
+      "verification": "direct_page_parsed"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=859": {
+      "company": "펄어비스",
+      "deadline": null,
+      "deadline_at": null,
+      "deadline_basis": "마감일 미확인",
+      "employment": "고용형태 확인 필요",
+      "experience": "경력 1년 이상 요구 · 도전 지원",
+      "experience_bucket": "stretch",
+      "experience_evidence": "1년 이상",
+      "first_seen": "2026-10-12T17:46:01.710277+09:00",
+      "fit": "게임 클라이언트/엔진/프로그래밍 · 스택 확인",
+      "graduate_eligibility": "재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인",
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "last_error": null,
+      "last_seen": "2026-10-12T17:46:01.710277+09:00",
+      "last_verified": "2026-10-12T17:46:01.710277+09:00",
+      "location": "펄어비스 홈 원 (경기도 과천시 과천대로2길 48)",
+      "max_years": null,
+      "min_years": 1,
+      "notice": "자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.",
+      "revision": 0,
+      "score": 75,
+      "source": "pearlabyss",
+      "source_class": "official_careers",
+      "status": "open",
+      "tier": "stretch",
+      "title": "[경력] Voice Recording Engineer / Game Voice Editor",
+      "type": "job",
+      "until_filled": false,
+      "updated_at": "2026-10-12T17:46:01.710277+09:00",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=859",
+      "verification": "direct_page_parsed"
+    }
+  },
+  "last_scanned": "2026-10-12T17:46:01.710277+09:00",
+  "last_verified_scan": "2026-10-12T17:46:01.710277+09:00",
   "pending": {},
-  "rejected": {},
-  "run_count": 0,
-  "source_history": {},
+  "rejected": {
+    "https://careers.nexon.com/recruit/10221": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "robots_disallowed"
+    },
+    "https://nexon-tutorial.com/": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "program_dates_unconfirmed"
+    },
+    "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285543": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "network_error"
+    },
+    "https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285794": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "network_error"
+    },
+    "https://www.jobkorea.co.kr/Recruit/GI_Read/49984909?logpath=21&rPageCode=SL&sc=612&sn=6": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "network_error"
+    },
+    "https://www.jobkorea.co.kr/Recruit/GI_Read/50092766?logpath=21&rPageCode=SL&sc=611&sn=6": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "not_game_development"
+    },
+    "https://www.jobkorea.co.kr/Recruit/GI_Read/50136583?logpath=21&rPageCode=SL&sc=611&sn=6": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "not_game_development"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=136": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=224": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=249": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.kog.co.kr/recruit/apply?uid=268": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.kog.co.kr/recruit/notice/136": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/138": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/144": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/168": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/206": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/224": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.kog.co.kr/recruit/notice/249": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "browser_page_budget_reached"
+    },
+    "https://www.kog.co.kr/recruit/notice/268": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=757": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "not_game_development"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=822": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=823": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=824": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=844": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "role_unclear_or_not_programming"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=850": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=851": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=854": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "non_programming_role"
+    },
+    "https://www.welcom2us.com/": {
+      "last_attempt": "2026-10-12T17:46:01.710277+09:00",
+      "reason": "program_dates_unconfirmed"
+    }
+  },
+  "run_count": 1,
+  "source_history": {
+    "com2us": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "robots_unavailable"
+    },
+    "com2us_genius": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "devcat": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_403"
+    },
+    "devsisters": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "five_min_lab": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "official_api_response_received"
+    },
+    "gamejob": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "gravity": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_unavailable"
+    },
+    "hound13": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "incruit": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "network_error"
+    },
+    "indeed": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "manual_or_authorized_source_required"
+    },
+    "jobkorea": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "joycity": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "jumpit": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "manual_or_authorized_source_required"
+    },
+    "kakaogames": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "kog": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "krafton": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_403"
+    },
+    "linkedin": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "manual_or_authorized_source_required"
+    },
+    "lionheart": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_429"
+    },
+    "madngine": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "http_429"
+    },
+    "mintrocket": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "naver": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "not_configured_api_key_required"
+    },
+    "nc": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "neople": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_unavailable"
+    },
+    "neowiz": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_unavailable"
+    },
+    "neptune": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_unavailable"
+    },
+    "netmarble": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "http_401"
+    },
+    "nexon": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_disallowed"
+    },
+    "nexongames": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "network_error"
+    },
+    "nextorial": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "nhn": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "npixel": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_429"
+    },
+    "pearlabyss": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "candidates_found"
+    },
+    "playwith": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "rocketpunch": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "manual_or_authorized_source_required"
+    },
+    "saramin": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "not_configured_api_key_required"
+    },
+    "shiftup": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "smilegate": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "smilegate_intern": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "supercat": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_429"
+    },
+    "thumbage": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "network_error"
+    },
+    "wanted": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_403"
+    },
+    "webzen": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "status": "no_extractable_links"
+    },
+    "wemade": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "http_429"
+    },
+    "xlgames": {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "status": "robots_disallowed"
+    }
+  },
   "version": 3
 }

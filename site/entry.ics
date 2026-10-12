@@ -7,4 +7,37 @@ X-WR-CALNAME:실시간 · 신입/경력무관
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7efe80ac1df530430b73bec7@gamedev-live.example
+DTSTAMP:20261012T084601Z
+LAST-MODIFIED:20261012T084601Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:스마일게이트 · 검토 · [LOST ARK] 게임 데이터엔지
+ 니어 담당 모집
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: 스마일게이트\n직무: [LOST ARK] 게임 
+ 데이터엔지니어 담당 모집\n경력: 경력무관\n경력 근거: 
+ \n고용: 정규직\n적합성: 게임 클라이언트/엔진/프로그래
+ 밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
+ 학위/비자 등은 원문 확인\n근무지: 경기 > 성남시 분당
+ 구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-
+ 12T17:46:01.710277+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n
+ 마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 미확
+ 인\; 종일표시는 자정 마감이 아님\n출처: https://www.gamejob
+ .co.kr/Recruit/GI_Read/View?GI_No=285795\n자동 규칙 분류. 학위/비
+ 자/졸업연도 등 최종 자격은 원문 검토.\n모든 사이트/공
+ 고의 완전수집 또는 자격 충족을 보장하지 않음. 지원 
+ 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285795
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:스마일게이트 · 검토 · [LOST ARK] 게임 데이터엔
+ 지니어 담당 모집
+TRIGGER;VALUE=DATE-TIME:20261013T000000Z
+END:VALARM
+END:VEVENT
 END:VCALENDAR

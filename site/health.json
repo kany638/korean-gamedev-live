@@ -1,585 +1,1137 @@
 {
-  "active_events": 0,
-  "calendar_events": 0,
-  "candidate_links": 0,
+  "active_events": 12,
+  "calendar_events": 12,
+  "candidate_links": 40,
   "changed_matches": 0,
-  "classification_counts": {},
+  "classification_counts": {
+    "browser_page_budget_reached": 6,
+    "matched": 12,
+    "network_error": 3,
+    "non_programming_role": 7,
+    "not_game_development": 3,
+    "program_dates_unconfirmed": 2,
+    "robots_disallowed": 1,
+    "role_unclear_or_not_programming": 6
+  },
   "deferred_detail_links": 0,
-  "detail_attempts": 0,
-  "detail_errors": 0,
-  "last_scan_kst": null,
-  "last_verified_scan_kst": null,
-  "new_matches": 0,
-  "request_count": 0,
-  "run_status": "not_deployed",
+  "detail_attempts": 40,
+  "detail_errors": 10,
+  "last_scan_kst": "2026-10-12T17:46:01.710277+09:00",
+  "last_verified_scan_kst": "2026-10-12T17:46:01.710277+09:00",
+  "new_matches": 12,
+  "request_count": 553,
+  "run_status": "records_verified",
+  "source_class_counts": {
+    "job_board": 9,
+    "official_careers": 31,
+    "official_program": 3
+  },
   "sources": [
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 13,
+      "detail_verified": 13,
+      "discovered": 13,
       "id": "pearlabyss",
-      "matched": 0,
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "matched": 5,
       "mode": "html",
       "name": "펄어비스",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List"
+        },
+        {
+          "final_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.pearlabyss.com/Company/Careers/List"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nexon",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "넥슨 그룹",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_disallowed",
+          "url": "https://careers.nexon.com/recruit"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_disallowed",
       "url": "https://careers.nexon.com/recruit"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nexongames",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "넥슨게임즈 · 공식 법인 필터",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_disallowed",
+          "url": "https://careers.nexon.com/recruit?corpCodes=AG"
+        },
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.nexongames.co.kr/adopt/job.php"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "network_error",
       "url": "https://careers.nexon.com/recruit?corpCodes=AG"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "neople",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "네오플 · 공식 채용 경로",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.neople.co.kr/recruit"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_unavailable",
       "url": "https://www.neople.co.kr/recruit"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "mintrocket",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "민트로켓 · 공식 채용 경로",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.mintrock.et/en/careers/careers.php",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.mintrock.et/en/careers/careers.php"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://www.mintrock.et/en/careers/careers.php"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "smilegate",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "스마일게이트 그룹",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://rct.smilegate.com/apply/announce",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://rct.smilegate.com/apply/announce"
+        },
+        {
+          "final_url": "https://rct.smilegate.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://rct.smilegate.com/"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://rct.smilegate.com/apply/announce"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nc",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "NC · 그룹 채용",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://careers.ncsoft.com/apply/list",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://careers.ncsoft.com/apply/list"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://careers.ncsoft.com/apply/list"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "shiftup",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "시프트업",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://shiftup.co.kr/recruit/recruit.php",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://shiftup.co.kr/recruit/recruit.php"
+        },
+        {
+          "final_url": "https://shiftup.co.kr/recruit/culture.php",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://shiftup.co.kr/recruit/culture.php"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://shiftup.co.kr/recruit/recruit.php"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://shiftup.co.kr/recruit/culture.php"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://shiftup.co.kr/recruit/recruit.php"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "neowiz",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "네오위즈 · ROUND8",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.neowiz.com/kr/career/browse-job"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_unavailable",
       "url": "https://www.neowiz.com/kr/career/browse-job"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "krafton",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "크래프톤 · 스튜디오 채용",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_403",
+          "url": "https://recruit.krafton.com/"
+        },
+        {
+          "rendered": false,
+          "status": "http_403",
+          "url": "https://www.krafton.com/careers/jobs/"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_403",
       "url": "https://recruit.krafton.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "netmarble",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넷마블 · 개발 스튜디오",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://career.netmarble.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://career.netmarble.com/"
+        },
+        {
+          "final_url": "https://career.netmarble.com/announce",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://career.netmarble.com/announce"
+        },
+        {
+          "rendered": false,
+          "status": "http_401",
+          "url": "https://career.netmarble.com/02_career.html"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://career.netmarble.com/"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://career.netmarble.com/announce"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_401",
       "url": "https://career.netmarble.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "webzen",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "웹젠",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://webzen.recruiter.co.kr/career/job",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://webzen.recruiter.co.kr/career/job"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://webzen.recruiter.co.kr/career/job"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://webzen.recruiter.co.kr/career/job"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "com2us",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "컴투스 그룹 · 공식 리다이렉트",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://recruit.com2us.com/"
+        },
+        {
+          "final_url": "https://com2us.recruiter.co.kr/career/career",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://com2us.recruiter.co.kr/career/career"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://com2us.recruiter.co.kr/career/career"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_unavailable",
       "url": "https://recruit.com2us.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "kakaogames",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "카카오게임즈",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://recruit.kakaogames.com/ko/joinjuskr",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://recruit.kakaogames.com/ko/joinjuskr"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://recruit.kakaogames.com/ko/joinjuskr"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "devsisters",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "데브시스터즈",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://careers.devsisters.com/ko/home",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://careers.devsisters.com/ko/home"
+        },
+        {
+          "final_url": "https://careers.devsisters.com/ko/position",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://careers.devsisters.com/ko/position"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://careers.devsisters.com/ko/home"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "lionheart",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "라이온하트 스튜디오",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_429",
+          "url": "https://career.lionheart.co.kr/recruit"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_429",
       "url": "https://career.lionheart.co.kr/recruit"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "wemade",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "위메이드",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_429",
+          "url": "https://recruit.wemade.com/oz6xlsi9"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_429",
       "url": "https://recruit.wemade.com/oz6xlsi9"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nhn",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "NHN · 게임 프로그래밍 선별",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://careers.nhn.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://careers.nhn.com/"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://careers.nhn.com/"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://careers.nhn.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "npixel",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "엔픽셀",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_429",
+          "url": "https://recruit.npixel.co.kr/recruit"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_429",
       "url": "https://recruit.npixel.co.kr/recruit"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "five_min_lab",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "public_api",
       "name": "5민랩 · 공식 Greenhouse 공고",
       "pages": [],
+      "records_returned": 1,
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "official_api_response_received",
       "url": "https://job-boards.greenhouse.io/5minlab"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "xlgames",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "엑스엘게임즈",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_disallowed",
+          "url": "https://xlgames.recruiter.co.kr/appsite/company/index"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_disallowed",
       "url": "https://xlgames.recruiter.co.kr/appsite/company/index"
     },
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 16,
+      "detail_verified": 10,
+      "discovered": 16,
       "id": "kog",
-      "matched": 0,
+      "last_detail_error": "browser_page_budget_reached",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "matched": 4,
       "mode": "html",
       "name": "KOG · 근무지 별도 확인",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.kog.co.kr/recruit/info",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.kog.co.kr/recruit/info"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://www.kog.co.kr/recruit/info"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://www.kog.co.kr/recruit/info"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "devcat",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "데브캣",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_403",
+          "url": "https://devcat.com/careers"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_403",
       "url": "https://devcat.com/careers"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "supercat",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "슈퍼캣",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_429",
+          "url": "https://apply.supercat.co.kr/"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_429",
       "url": "https://apply.supercat.co.kr/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "hound13",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "하운드13 · 회사가 연결한 공고 포함",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.hound13.com/en",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.hound13.com/en"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://www.hound13.com/en"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://www.hound13.com/en"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "joycity",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "조이시티 · 공식 채용 경로 탐색",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://corp.joycity.com/ko/main",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://corp.joycity.com/ko/main"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://corp.joycity.com/ko/main"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://corp.joycity.com/ko/main"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "gravity",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "그라비티",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.gravity.co.kr/en/recruit/jobopening/list"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_unavailable",
       "url": "https://www.gravity.co.kr/en/recruit/jobopening/list"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "playwith",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "플레이위드",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.playwith.co.kr/Recruit",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.playwith.co.kr/Recruit"
+        },
+        {
+          "rendered": true,
+          "status": "rendered_received",
+          "url": "https://www.playwith.co.kr/Recruit"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://www.playwith.co.kr/Recruit"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "madngine",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "매드엔진 · 채용 경로 재확인",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.madngine.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.madngine.com/"
+        },
+        {
+          "final_url": "https://www.madngine.com/webdev2022/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.madngine.com/webdev2022"
+        },
+        {
+          "rendered": false,
+          "status": "http_429",
+          "url": "https://recruit.madngine.com/"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "http_429",
       "url": "https://www.madngine.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "neptune",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "넵튠 · 채용 경로 재확인",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.neptunecompany.kr/"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "robots_unavailable",
       "url": "https://www.neptunecompany.kr/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "thumbage",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "썸에이지 · 공식 채용 경로 탐색",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.thumbage.co.kr/Main"
+        }
+      ],
       "source_class": "official_careers",
-      "status": "not_run",
+      "status": "network_error",
       "url": "https://www.thumbage.co.kr/Main"
     },
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 2,
+      "detail_verified": 1,
+      "discovered": 2,
       "id": "nextorial",
+      "last_detail_error": "robots_disallowed",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넥토리얼 · 공식 프로그램",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://nexon-tutorial.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://nexon-tutorial.com/"
+        }
+      ],
       "source_class": "official_program",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://nexon-tutorial.com/"
     },
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 1,
+      "detail_verified": 1,
+      "discovered": 1,
       "id": "com2us_genius",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "컴투스 GENIUS · 공식 프로그램",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.welcom2us.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.welcom2us.com/"
+        },
+        {
+          "final_url": "https://com2us.recruiter.co.kr/career/career",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://com2us.recruiter.co.kr/career/career"
+        }
+      ],
       "source_class": "official_program",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://www.welcom2us.com/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "smilegate_intern",
+      "last_detail_success": null,
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
       "matched": 0,
       "mode": "html",
       "name": "스마일게이트 · 공식 인턴십 안내",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://rct.smilegate.com/student/internship?type=job",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://rct.smilegate.com/student/internship?type=job"
+        },
+        {
+          "final_url": "https://rct.smilegate.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://rct.smilegate.com/"
+        }
+      ],
+      "render_status": "browser_render_incomplete",
       "source_class": "official_program",
-      "status": "not_run",
+      "status": "no_extractable_links",
       "url": "https://rct.smilegate.com/student/internship?type=job"
     },
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 4,
+      "detail_verified": 2,
+      "discovered": 4,
       "id": "gamejob",
-      "matched": 0,
+      "last_detail_error": "network_error",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "matched": 2,
       "mode": "html",
       "name": "게임잡 GameJob",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall"
+        }
+      ],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall"
     },
     {
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
+      "detail_attempts": 4,
+      "detail_verified": 3,
+      "discovered": 4,
       "id": "jobkorea",
-      "matched": 0,
+      "last_detail_error": "network_error",
+      "last_detail_success": "2026-10-12T17:46:01.710277+09:00",
+      "last_listing_success": "2026-10-12T17:46:01.710277+09:00",
+      "matched": 1,
       "mode": "html",
       "name": "잡코리아 JobKorea",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.jobkorea.co.kr/recruit/joblist",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.jobkorea.co.kr/recruit/joblist"
+        }
+      ],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "candidates_found",
       "url": "https://www.jobkorea.co.kr/recruit/joblist"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "saramin",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "api",
       "name": "사람인 Saramin · 승인 API",
       "pages": [],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "not_configured_api_key_required",
       "url": "https://oapi.saramin.co.kr/guide/job-search"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "indeed",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "authorized_only",
       "name": "Indeed Korea · 허가된 연동/직접 확인",
       "pages": [],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "manual_or_authorized_source_required",
       "url": "https://kr.indeed.com/jobs?q=Unreal+game+developer&l=South+Korea"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "wanted",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "원티드 Wanted",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "http_403",
+          "url": "https://www.wanted.co.kr/wdlist"
+        }
+      ],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "http_403",
       "url": "https://www.wanted.co.kr/wdlist"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "incruit",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "html",
       "name": "인크루트 Incruit",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84"
+        }
+      ],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "network_error",
       "url": "https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "jumpit",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "manual",
       "name": "점핏 Jumpit · 직접 확인",
       "pages": [],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "manual_or_authorized_source_required",
       "url": "https://jumpit.saramin.co.kr/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "linkedin",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "authorized_only",
       "name": "LinkedIn · 허가된 연동/직접 확인",
       "pages": [],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "manual_or_authorized_source_required",
       "url": "https://www.linkedin.com/jobs/"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "rocketpunch",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "manual",
       "name": "로켓펀치 · 직접 확인",
       "pages": [],
       "source_class": "job_board",
-      "status": "not_run",
+      "status": "manual_or_authorized_source_required",
       "url": "https://www.rocketpunch.com/jobs"
     },
     {
+      "checked_at": "2026-10-12T17:46:01.710277+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "naver",
+      "last_detail_success": null,
+      "last_listing_success": null,
       "matched": 0,
       "mode": "api",
-      "name": "네이버 검색 API",
+      "name": "네이버 웹문서 API · 발견만",
       "pages": [],
       "source_class": "search_discovery",
       "status": "not_configured_api_key_required",
@@ -587,7 +1139,7 @@
     }
   ],
   "unverified_candidates": [],
-  "verified_detail_records": 0,
+  "verified_detail_records": 30,
   "version": 3,
-  "warning": "Not deployed. Empty initial feeds are not evidence of zero vacancies."
+  "warning": "Capped, rule-based coverage. A configured source/search result is NOT a verified posting. Check source failures."
 }

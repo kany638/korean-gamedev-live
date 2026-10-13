@@ -4,7 +4,6 @@
     "mode": "html",
     "name": "펄어비스",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "listing_visible",
     "reference_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
     "render_js": true,
@@ -19,7 +18,6 @@
     "mode": "html",
     "name": "넥슨 그룹",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://careers.nexon.com/recruit",
     "render_js": true,
@@ -41,7 +39,6 @@
     "mode": "html",
     "name": "넥슨게임즈 · 공식 법인 필터",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.nexongames.co.kr/",
     "render_js": true,
@@ -56,7 +53,6 @@
     "mode": "html",
     "name": "네오플 · 공식 채용 경로",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_landing",
     "reference_url": "https://www.neople.co.kr/",
     "render_js": true,
@@ -71,7 +67,6 @@
     "mode": "html",
     "name": "민트로켓 · 공식 채용 경로",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_landing",
     "reference_url": "https://mintrocketgames.com/",
     "render_js": true,
@@ -86,7 +81,6 @@
     "mode": "html",
     "name": "스마일게이트 그룹",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://rct.smilegate.com/apply/announce",
     "render_js": true,
@@ -104,7 +98,6 @@
     "mode": "html",
     "name": "NC · 그룹 채용",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://careers.ncsoft.com/apply/list",
     "render_js": true,
@@ -121,7 +114,6 @@
     "mode": "html",
     "name": "시프트업",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://shiftup.co.kr/recruit/recruit.php",
     "render_js": true,
@@ -136,7 +128,6 @@
     "mode": "html",
     "name": "네오위즈 · ROUND8",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "web_access_blocked",
     "reference_url": "https://www.neowiz.com/kr/career/browse-job",
     "render_js": true,
@@ -155,7 +146,6 @@
     "mode": "html",
     "name": "크래프톤 · 스튜디오 채용",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "web_fetch_failed",
     "reference_url": "https://recruit.krafton.com/",
     "render_js": true,
@@ -175,7 +165,6 @@
     "mode": "html",
     "name": "넷마블 · 개발 스튜디오",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://career.netmarble.com/",
     "render_js": true,
@@ -194,7 +183,6 @@
     "mode": "html",
     "name": "웹젠",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://webzen.recruiter.co.kr/career/job",
     "render_js": true,
@@ -212,7 +200,6 @@
     "mode": "html",
     "name": "컴투스 그룹 · 공식 리다이렉트",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_redirect",
     "reference_url": "https://recruit.com2us.com/",
     "render_js": true,
@@ -229,7 +216,6 @@
     "mode": "html",
     "name": "카카오게임즈",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "web_access_blocked",
     "reference_url": "https://recruit.kakaogames.com/ko/joinjuskr",
     "render_js": true,
@@ -247,7 +233,6 @@
     "mode": "html",
     "name": "데브시스터즈",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "listing_visible",
     "reference_url": "https://careers.devsisters.com/ko/home",
     "render_js": true,
@@ -263,7 +248,6 @@
     "mode": "html",
     "name": "라이온하트 스튜디오",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://career.lionheart.co.kr/recruit",
     "render_js": true,
@@ -278,7 +262,6 @@
     "mode": "html",
     "name": "위메이드",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://recruit.wemade.com/oz6xlsi9",
     "render_js": true,
@@ -294,7 +277,6 @@
     "mode": "html",
     "name": "NHN · 게임 프로그래밍 선별",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.nhn.com/",
     "render_js": true,
@@ -310,7 +292,6 @@
     "mode": "html",
     "name": "엔픽셀",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://www.npixel.co.kr/",
     "render_js": true,
@@ -325,7 +306,6 @@
     "mode": "public_api",
     "name": "5민랩 · 공식 Greenhouse 공고",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://5minlab.com/ko/careers_kr/",
     "render_js": false,
@@ -340,7 +320,6 @@
     "mode": "html",
     "name": "엑스엘게임즈",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.xlgames.com/",
     "render_js": true,
@@ -355,7 +334,6 @@
     "mode": "html",
     "name": "KOG · 근무지 별도 확인",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://www.kog.co.kr/recruit/info",
     "render_js": true,
@@ -370,7 +348,6 @@
     "mode": "html",
     "name": "데브캣",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_landing",
     "reference_url": "https://devcat.com/careers",
     "render_js": true,
@@ -385,7 +362,6 @@
     "mode": "html",
     "name": "슈퍼캣",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.supercat.co.kr/",
     "render_js": true,
@@ -401,7 +377,6 @@
     "mode": "html",
     "name": "하운드13 · 회사가 연결한 공고 포함",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "employer_links_to_gamejob",
     "reference_url": "https://www.hound13.com/en",
     "render_js": true,
@@ -416,7 +391,6 @@
     "mode": "html",
     "name": "조이시티 · 공식 채용 경로 탐색",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_landing",
     "reference_url": "https://www.joycity.com/",
     "render_js": true,
@@ -431,7 +405,6 @@
     "mode": "html",
     "name": "그라비티",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.gravity.co.kr/",
     "render_js": true,
@@ -446,7 +419,6 @@
     "mode": "html",
     "name": "플레이위드",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_link_followed",
     "reference_url": "https://www.playwith.co.kr/",
     "render_js": true,
@@ -461,7 +433,6 @@
     "mode": "html",
     "name": "매드엔진 · 채용 경로 재확인",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://www.madngine.com/",
     "render_js": true,
@@ -476,7 +447,6 @@
     "mode": "html",
     "name": "넵튠 · 채용 경로 재확인",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "javascript_or_shell",
     "reference_url": "https://www.neptunecompany.kr/",
     "render_js": true,
@@ -491,7 +461,6 @@
     "mode": "html",
     "name": "썸에이지 · 공식 채용 경로 탐색",
     "note": "Official employer route; HTML/embedded JSON first, bounded JS fallback. Runtime success is not implied by registration. Targets are a watchlist, not proof of every subsidiary being scanned.",
-    "reference_checked": "2026-10-08",
     "reference_status": "official_landing",
     "reference_url": "https://www.thumbage.co.kr/Main",
     "render_js": true,
@@ -506,7 +475,6 @@
     "mode": "html",
     "name": "넥토리얼 · 공식 프로그램",
     "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
-    "reference_checked": "2026-10-08",
     "reference_status": "program_text_visible_cached_not_live_intake",
     "reference_url": "https://nexon-tutorial.com/",
     "render_js": true,
@@ -518,7 +486,6 @@
     "mode": "html",
     "name": "컴투스 GENIUS · 공식 프로그램",
     "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
-    "reference_checked": "2026-10-08",
     "reference_status": "program_text_visible_cached_not_live_intake",
     "reference_url": "https://www.welcom2us.com/",
     "render_js": true,
@@ -530,7 +497,6 @@
     "mode": "html",
     "name": "스마일게이트 · 공식 인턴십 안내",
     "note": "Program pages are checked for posting links and dated intakes. Evergreen information or cached past-year text is not a confirmed current vacancy or a 2027 deadline.",
-    "reference_checked": "2026-10-08",
     "reference_status": "program_text_visible_cached_not_live_intake",
     "reference_url": "https://rct.smilegate.com/student/internship?type=job",
     "render_js": true,
@@ -538,11 +504,15 @@
     "url": "https://rct.smilegate.com/student/internship?type=job"
   },
   {
+    "entry_points": [
+      "https://www.gamejob.co.kr/Recruit/Main",
+      "https://www.gamejob.co.kr/Recruit/joblist?divice=1&menucode=category"
+    ],
     "id": "gamejob",
     "mode": "html",
     "name": "게임잡 GameJob",
     "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
-    "render_js": false,
+    "render_js": true,
     "source_class": "job_board",
     "url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall"
   },
@@ -551,7 +521,7 @@
     "mode": "html",
     "name": "잡코리아 JobKorea",
     "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
-    "render_js": false,
+    "render_js": true,
     "source_class": "job_board",
     "url": "https://www.jobkorea.co.kr/recruit/joblist"
   },
@@ -578,7 +548,7 @@
     "mode": "html",
     "name": "원티드 Wanted",
     "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
-    "render_js": false,
+    "render_js": true,
     "source_class": "job_board",
     "url": "https://www.wanted.co.kr/wdlist"
   },
@@ -587,7 +557,7 @@
     "mode": "html",
     "name": "인크루트 Incruit",
     "note": "Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.",
-    "render_js": false,
+    "render_js": true,
     "source_class": "job_board",
     "url": "https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84"
   },
@@ -617,5 +587,593 @@
     "render_js": false,
     "source_class": "job_board",
     "url": "https://www.rocketpunch.com/jobs"
+  },
+  {
+    "id": "studio_3ddea95a6d3b",
+    "mode": "html",
+    "name": "111퍼센트 · 홈페이지 경로 탐색",
+    "note": "Verified employer careers page; successful live extraction still unproven.",
+    "reference_status": "company_official_careers",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "official_careers",
+    "targets": [
+      "111퍼센트"
+    ],
+    "url": "https://111percent.career.greetinghr.com/ko/position"
+  },
+  {
+    "id": "studio_9d9320fe457c",
+    "mode": "html",
+    "name": "CCP Games · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "CCP Games"
+    ],
+    "url": "https://www.ccpgames.com/"
+  },
+  {
+    "id": "studio_b93caf95c99a",
+    "mode": "html",
+    "name": "HAEON STUDIO · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kocca_company_profile",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "HAEON STUDIO"
+    ],
+    "url": "https://www.haeon.io/"
+  },
+  {
+    "id": "studio_f6dff0c4e611",
+    "mode": "html",
+    "name": "JUNEiNTER · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "JUNEiNTER"
+    ],
+    "url": "https://portal.juneinter.com/"
+  },
+  {
+    "id": "studio_77d29422b6a5",
+    "mode": "html",
+    "name": "RING GAMES · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kocca_company_profile",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "RING GAMES"
+    ],
+    "url": "https://www.ringgames.com/"
+  },
+  {
+    "id": "studio_c8df525c39c8",
+    "mode": "html",
+    "name": "Yeop Studio · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kocca_company_profile",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "Yeop Studio"
+    ],
+    "url": "https://yeopstudio.my.canva.site/"
+  },
+  {
+    "id": "studio_141878b893ff",
+    "mode": "html",
+    "name": "나딕게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "나딕게임즈"
+    ],
+    "url": "https://www.naddic.com/"
+  },
+  {
+    "id": "studio_62f7ca91484d",
+    "mode": "html",
+    "name": "네시삼십삼분 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "네시삼십삼분"
+    ],
+    "url": "https://www.433.co.kr/"
+  },
+  {
+    "id": "studio_6847457fcf5b",
+    "mode": "html",
+    "name": "네오게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "네오게임즈"
+    ],
+    "url": "https://www.neogames.co.kr/"
+  },
+  {
+    "id": "studio_809a31c7ffc2",
+    "mode": "html",
+    "name": "넥써쓰 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "넥써쓰"
+    ],
+    "url": "https://www.to.nexus/"
+  },
+  {
+    "id": "studio_9e1f576c1c5d",
+    "mode": "html",
+    "name": "넷마블몬스터 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "넷마블몬스터"
+    ],
+    "url": "https://www.netmarble.net/"
+  },
+  {
+    "id": "studio_66ce29635bd4",
+    "mode": "html",
+    "name": "다날게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "다날게임즈"
+    ],
+    "url": "https://www.danal.co.kr/"
+  },
+  {
+    "id": "studio_ac3ef1d5f8cb",
+    "mode": "html",
+    "name": "드래곤플라이 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "드래곤플라이"
+    ],
+    "url": "https://www.dragonflygame.com/"
+  },
+  {
+    "id": "studio_4ddcd3405c54",
+    "mode": "html",
+    "name": "드림에이지 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "드림에이지"
+    ],
+    "url": "https://www.drimage.com/"
+  },
+  {
+    "id": "studio_6cc601e3c005",
+    "mode": "html",
+    "name": "라이엇게임즈코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "라이엇게임즈코리아"
+    ],
+    "url": "https://www.riotgames.com/"
+  },
+  {
+    "id": "studio_3b9a2c482193",
+    "mode": "html",
+    "name": "라인게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "company_official",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "라인게임즈"
+    ],
+    "url": "https://www.line.games/company/"
+  },
+  {
+    "id": "studio_e4a28cbc35d3",
+    "mode": "html",
+    "name": "레드브릭 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "레드브릭"
+    ],
+    "url": "https://www.redbrick.space/"
+  },
+  {
+    "id": "studio_4bb746a35c74",
+    "mode": "html",
+    "name": "링크드 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "링크드"
+    ],
+    "url": "https://www.linkedseoul.com/"
+  },
+  {
+    "id": "studio_fa3a4df2f49d",
+    "mode": "html",
+    "name": "무브인터렉티브 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "무브인터렉티브"
+    ],
+    "url": "https://www.moveint.io/"
+  },
+  {
+    "id": "studio_e943db4b249c",
+    "mode": "html",
+    "name": "블리자드엔터테인먼트코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "블리자드엔터테인먼트코리아"
+    ],
+    "url": "https://www.blizzard.co.kr/"
+  },
+  {
+    "id": "studio_fa4f8647ea82",
+    "mode": "html",
+    "name": "소프톤엔터테인먼트 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "소프톤엔터테인먼트"
+    ],
+    "url": "https://www.softon.co.kr/"
+  },
+  {
+    "id": "studio_65472b8b7221",
+    "mode": "html",
+    "name": "소프트젠 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "소프트젠"
+    ],
+    "url": "https://www.softzen.co.kr/"
+  },
+  {
+    "id": "studio_68f64daed563",
+    "mode": "html",
+    "name": "스타코링크 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "스타코링크"
+    ],
+    "url": "https://www.stacolink.com/"
+  },
+  {
+    "id": "studio_bea3507a76b4",
+    "mode": "html",
+    "name": "애닉/베스파 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "애닉/베스파"
+    ],
+    "url": "https://www.vespainc.com/"
+  },
+  {
+    "id": "studio_5927ab5c9e26",
+    "mode": "html",
+    "name": "액토즈소프트 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "액토즈소프트"
+    ],
+    "url": "https://www.actoz.com/"
+  },
+  {
+    "id": "studio_da27350262da",
+    "mode": "html",
+    "name": "앵커노드 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "앵커노드"
+    ],
+    "url": "https://www.anchornode.io/"
+  },
+  {
+    "id": "studio_82435798e40c",
+    "mode": "html",
+    "name": "어썸코드 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "어썸코드"
+    ],
+    "url": "https://www.awesomecode.co.kr/"
+  },
+  {
+    "id": "studio_da9b1fd3b0d9",
+    "mode": "html",
+    "name": "에픽게임즈코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "에픽게임즈코리아"
+    ],
+    "url": "https://www.epicgames.com/"
+  },
+  {
+    "id": "studio_670e4b85a4da",
+    "mode": "html",
+    "name": "엔엑스쓰리게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "엔엑스쓰리게임즈"
+    ],
+    "url": "https://www.nx3games.com/"
+  },
+  {
+    "id": "studio_ae47536ec543",
+    "mode": "html",
+    "name": "엠게임 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "엠게임"
+    ],
+    "url": "https://www.mgame.com/"
+  },
+  {
+    "id": "studio_b62db0b43117",
+    "mode": "html",
+    "name": "워게이밍코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "워게이밍코리아"
+    ],
+    "url": "https://worldoftanks.asia/ko/"
+  },
+  {
+    "id": "studio_95d4c4b8a147",
+    "mode": "html",
+    "name": "웹젠온네트 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "웹젠온네트"
+    ],
+    "url": "https://www.onnet.co.kr/"
+  },
+  {
+    "id": "studio_afeaf38ec2e0",
+    "mode": "html",
+    "name": "위메이드맥스 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "위메이드맥스"
+    ],
+    "url": "https://www.wemademax.com/"
+  },
+  {
+    "id": "studio_0156d6c0c2af",
+    "mode": "html",
+    "name": "이스트게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "company_official",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "이스트게임즈"
+    ],
+    "url": "https://estgames.co.kr/company/"
+  },
+  {
+    "id": "studio_f13f1acb8aee",
+    "mode": "html",
+    "name": "이엔피게임즈 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "이엔피게임즈"
+    ],
+    "url": "https://www.enpgames.co.kr/"
+  },
+  {
+    "id": "studio_f02a2b9c8d24",
+    "mode": "html",
+    "name": "잼팟 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "잼팟"
+    ],
+    "url": "https://www.zempot.com/"
+  },
+  {
+    "id": "studio_bbce097fd7a6",
+    "mode": "html",
+    "name": "창유닷컴코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "창유닷컴코리아"
+    ],
+    "url": "https://www.cyougame.kr/"
+  },
+  {
+    "id": "studio_e6a791eef42c",
+    "mode": "html",
+    "name": "컴투스홀딩스 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "컴투스홀딩스"
+    ],
+    "url": "https://com2us.com/holdings"
+  },
+  {
+    "id": "studio_c3af972fec56",
+    "mode": "html",
+    "name": "텐센트코리아 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "텐센트코리아"
+    ],
+    "url": "https://www.tencent.co.kr/"
+  },
+  {
+    "id": "studio_d05673dd9156",
+    "mode": "html",
+    "name": "투빗 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "투빗"
+    ],
+    "url": "https://www.tobeitcorp.com/"
+  },
+  {
+    "id": "studio_ae0e33c874c5",
+    "mode": "html",
+    "name": "한빛소프트 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "kgames",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "한빛소프트"
+    ],
+    "url": "https://www.hanbitsoft.co.kr/"
+  },
+  {
+    "id": "studio_0fbded68fe48",
+    "mode": "html",
+    "name": "해긴 · 홈페이지 경로 탐색",
+    "note": "Industry directory/homepage discovery only. NOT verified as a careers page.",
+    "reference_status": "jobkorea_company_profile",
+    "reference_url": "https://www.kgames.or.kr/partnership/partner-list/",
+    "render_js": true,
+    "source_class": "corporate_discovery",
+    "targets": [
+      "해긴"
+    ],
+    "url": "https://www.haegin.kr/"
   }
 ]

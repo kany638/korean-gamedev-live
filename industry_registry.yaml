@@ -1,0 +1,106 @@
+# V4 company discovery seed roster: names confirmed in the linked industry
+# directories / public job examples.  A company name or homepage is NOT a
+# proven careers site and must never turn into a calendar posting by itself.
+# Not exhaustive; may contain publishers and game-technology employers as well.
+version: 1
+references:
+  kgames: https://www.kgames.or.kr/partnership/partner-list/
+  kmga: https://www.k-mga.or.kr/content/27
+  gamejob: https://www.gamejob.co.kr/Recruit/Main
+  kocca: https://welcon.kocca.kr/en/directory/company?pageIndex=1
+companies:
+  # Additional K-GAMES members with published company homepages
+  - {name: 라이엇게임즈코리아, website: 'https://www.riotgames.com/', evidence: kgames, focus: adjacent}
+  - {name: 블리자드엔터테인먼트코리아, website: 'https://www.blizzard.co.kr/', evidence: kgames, focus: adjacent}
+  - {name: 텐센트코리아, website: 'https://www.tencent.co.kr/', evidence: kgames, focus: adjacent}
+  - {name: 나딕게임즈, website: 'https://www.naddic.com/', evidence: kgames, focus: studio}
+  - {name: JUNEiNTER, website: 'https://portal.juneinter.com/', evidence: kgames, focus: studio}
+  - {name: 네시삼십삼분, website: 'https://www.433.co.kr/', evidence: kgames, focus: studio}
+  - {name: 네오게임즈, website: 'https://www.neogames.co.kr/', evidence: kgames, focus: studio}
+  - {name: 넥써쓰, website: 'https://www.to.nexus/', evidence: kgames, focus: studio}
+  - {name: 드래곤플라이, website: 'https://www.dragonflygame.com/', evidence: kgames, focus: studio}
+  - {name: 드림에이지, website: 'https://www.drimage.com/', evidence: kgames, focus: studio}
+  - {name: 레드브릭, website: 'https://www.redbrick.space/', evidence: kgames, focus: adjacent}
+  - {name: 링크드, website: 'https://www.linkedseoul.com/', evidence: kgames, focus: studio}
+  - {name: 잼팟, website: 'https://www.zempot.com/', evidence: kgames, focus: studio}
+  - {name: 창유닷컴코리아, website: 'https://www.cyougame.kr/', evidence: kgames, focus: studio}
+  - {name: 무브인터렉티브, website: 'https://www.moveint.io/', evidence: kgames, focus: studio}
+  - {name: 애닉/베스파, website: 'https://www.vespainc.com/', evidence: kgames, focus: studio}
+  - {name: 위메이드맥스, website: 'https://www.wemademax.com/', evidence: kgames, focus: studio}
+  - {name: 컴투스홀딩스, website: 'https://com2us.com/holdings', evidence: kgames, focus: studio}
+  - {name: 앵커노드, website: 'https://www.anchornode.io/', evidence: kgames, focus: studio}
+  - {name: 엔엑스쓰리게임즈, website: 'https://www.nx3games.com/', evidence: kgames, focus: studio}
+  - {name: 소프톤엔터테인먼트, website: 'https://www.softon.co.kr/', evidence: kgames, focus: studio}
+  - {name: 스타코링크, website: 'https://www.stacolink.com/', evidence: kgames, focus: studio}
+  - {name: 한빛소프트, website: 'https://www.hanbitsoft.co.kr/', evidence: kgames, focus: studio}
+  - {name: 엠게임, website: 'https://www.mgame.com/', evidence: kgames, focus: studio}
+  - {name: 에픽게임즈코리아, website: 'https://www.epicgames.com/', evidence: kgames, focus: adjacent}
+  - {name: CCP Games, website: 'https://www.ccpgames.com/', evidence: kgames, focus: adjacent}
+  - {name: 액토즈소프트, website: 'https://www.actoz.com/', evidence: kgames, focus: studio}
+  - {name: 워게이밍코리아, website: 'https://worldoftanks.asia/ko/', evidence: kgames, focus: adjacent}
+  - {name: 웹젠온네트, website: 'https://www.onnet.co.kr/', evidence: kgames, focus: studio}
+  - {name: 넷마블몬스터, website: 'https://www.netmarble.net/', evidence: kgames, focus: studio}
+  - {name: 다날게임즈, website: 'https://www.danal.co.kr/', evidence: kgames, focus: adjacent}
+  - {name: 소프트젠, website: 'https://www.softzen.co.kr/', evidence: kgames, focus: studio}
+  - {name: 어썸코드, website: 'https://www.awesomecode.co.kr/', evidence: kgames, focus: studio}
+  - {name: 이엔피게임즈, website: 'https://www.enpgames.co.kr/', evidence: kgames, focus: studio}
+  - {name: 투빗, website: 'https://www.tobeitcorp.com/', evidence: kgames, focus: studio}
+  # K-MGA lists these game developers/publishers; homepage URLs not supplied
+  # in that directory, so they are SEARCH-ONLY until a genuine URL is found.
+  - {name: 젠틀매니악, evidence: kmga, focus: studio}
+  - {name: 하이브로, evidence: kmga, focus: studio}
+  - {name: 스쿠티랩스, evidence: kmga, focus: studio}
+  - {name: ZTQ Games, evidence: kmga, focus: studio}
+  - {name: 아름게임즈, evidence: kmga, focus: studio}
+  - {name: 해피툭, evidence: kmga, focus: studio}
+  - {name: SH인터렉티브, evidence: kmga, focus: studio}
+  - {name: CFK, evidence: kmga, focus: studio}
+  # Verified as company names on public GameJob listings; no invented URLs.
+  - {name: 뉴코어, evidence: gamejob, focus: studio}
+  - {name: 러너소프트, evidence: gamejob, focus: studio}
+  - {name: 어썸피스, evidence: gamejob, focus: studio}
+  - {name: 코드캣, evidence: gamejob, focus: studio}
+  - {name: 폴리모프, evidence: gamejob, focus: studio}
+  - {name: 테이드소프트, evidence: gamejob, focus: studio}
+  # Additional named studios seen in the earlier user's researched listings.
+  # Search only: do not treat these names as verified live employer sites.
+  - {name: 아쿠아트리, evidence: gamejob, focus: studio}
+  - {name: 하이퍼센트, evidence: gamejob, focus: studio}
+  - {name: 이스트게임즈, website: 'https://estgames.co.kr/company/', evidence: company_official, focus: studio}
+  - {name: 아리아스튜디오, evidence: gamejob, focus: studio}
+  # Additional developer names in 2026 BIC/KOCCA published reporting.
+  - {name: 다이빙스튜디오, evidence: bic2026, focus: indie}
+  - {name: 썬게임즈, evidence: bic2026, focus: indie}
+  - {name: 오디세이어, evidence: bic2026, focus: indie}
+  - {name: 프로젝트모름, evidence: bic2026, focus: indie}
+  # Broader game-development brands; discovery names only until career roots validated.
+  - {name: 라인게임즈, website: 'https://www.line.games/company/', evidence: company_official, focus: studio}
+  - {name: 빅게임스튜디오, evidence: manual_candidate, focus: studio}
+  - {name: 하이브IM, evidence: manual_candidate, focus: studio}
+  - {name: 넷마블네오, evidence: manual_candidate, focus: studio}
+  - {name: 넷마블에프앤씨, evidence: manual_candidate, focus: studio}
+  - {name: 블루홀스튜디오, evidence: manual_candidate, focus: studio}
+  - {name: 라이징윙스, evidence: manual_candidate, focus: studio}
+  - {name: 드림모션, evidence: manual_candidate, focus: studio}
+  - {name: 원더피플, evidence: manual_candidate, focus: studio}
+  - {name: 원더포션, evidence: manual_candidate, focus: indie}
+  - {name: 111퍼센트, website: 'https://111percent.career.greetinghr.com/ko/position', evidence: company_official_careers, career_verified: true, focus: studio}
+  - {name: 해긴, website: 'https://www.haegin.kr/', evidence: jobkorea_company_profile, focus: studio}
+  - {name: 스튜디오비사이드, evidence: manual_candidate, focus: studio}
+  - {name: 시프트업 스텔라 블레이드 팀, evidence: manual_candidate, focus: studio}
+  - {name: 슈퍼크리에이티브, evidence: manual_candidate, focus: studio}
+  - {name: 아크시스템웍스 아시아, evidence: manual_candidate, focus: adjacent}
+  - {name: 뉴노멀소프트, evidence: manual_candidate, focus: studio}
+  - {name: 씨씨알씨, evidence: manual_candidate, focus: studio}
+  - {name: 에이버튼, evidence: manual_candidate, focus: studio}
+
+  # Independent game studios individually published in KOCCA WelCon company profiles.
+  # A profile is evidence a company exists, NOT evidence that it is hiring.
+  - {name: SKYWALK, evidence: kocca_company_profile, focus: indie}
+  - {name: Dream Craft, evidence: kocca_company_profile, focus: indie}
+  - {name: PROTO FACTORY, evidence: kocca_company_profile, focus: indie}
+  - {name: HAEON STUDIO, website: 'https://www.haeon.io/', evidence: kocca_company_profile, focus: indie}
+  - {name: SG GAMES, evidence: kocca_company_profile, focus: indie}
+  - {name: Yeop Studio, website: 'https://yeopstudio.my.canva.site/', evidence: kocca_company_profile, focus: indie}
+  - {name: Wayway Inc., evidence: kocca_company_profile, focus: indie}
+  - {name: RING GAMES, website: 'https://www.ringgames.com/', evidence: kocca_company_profile, focus: studio}

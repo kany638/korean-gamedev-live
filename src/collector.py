@@ -21,6 +21,7 @@ KNOWN_DOMAINS = {
     'rct.smilegate.com', 'neowiz.com', 'recruit.krafton.com', 'career.netmarble.com',
     'career.lionheart.co.kr', 'recruit.kakaogames.com', 'welcom2us.com',
     'recruit.webzen.co.kr', 'shiftup.co.kr', 'careers.ncsoft.com',
+    'jobs.lever.co', 'career.greetinghr.com', 'job-boards.greenhouse.io',
     'recruit.wemade.com', 'devsisters.com', 'careers.devsisters.com',
     'recruit.com2us.com', 'recruit.kog.co.kr', 'kog.co.kr', 'nexon-tutorial.com',
 }
@@ -231,12 +232,23 @@ def naver_records(data,sources):
 
 # Employer navigation and embedded data are discovery only. Each candidate still
 # needs a detail request or a documented official API response before publication.
-CAREERS_NAV = re.compile(r'채용\s*공고|진행\s*중.*채용|채용\s*중|모집\s*공고|입사\s*지원|채용정보|채용안내|인재채용|전체\s*공고|채용사이트|채용페이지|recruit|careers?|job\s*openings?|open\s*positions?|join\s*us|vacanc|지원하기|공고\s*확인하기',re.I)
+CAREERS_NAV = re.compile(r'\bapply\b|채용\s*공고|진행\s*중.*채용|채용\s*중|모집\s*공고|입사\s*지원|채용정보|채용안내|인재채용|전체\s*공고|채용사이트|채용페이지|recruit|careers?|job\s*openings?|open\s*positions?|join\s*us|vacanc|지원하기|공고\s*확인하기',re.I)
+
+
+TRUSTED_PUBLIC_JOB_LINK_HOSTS = ('job-boards.greenhouse.io', 'boards.greenhouse.io',
+                                 'jobs.lever.co', 'career.greetinghr.com',
+                                 'gamejob.co.kr', 'recruiter.co.kr')
 
 
 def source_host_allowed(url, source):
     host = (urlparse(url).hostname or '').lower()
-    return any(host == d or host.endswith('.'+d) for d in source.get('domains',[(urlparse(source['url']).hostname or '')]))
+    if any(host == d or host.endswith('.'+d) for d in source.get('domains',[(urlparse(source['url']).hostname or '')])):
+        return True
+    # A genuine employer careers/homepage may link to a separately hosted ATS.
+    # Do not follow arbitrary cross-domain links; only known public job portals
+    # actually linked by the employer and still subject to transport/robots.
+    return source.get('source_class') in ('official_careers', 'corporate_discovery') and any(
+        host == d or host.endswith('.'+d) for d in TRUSTED_PUBLIC_JOB_LINK_HOSTS)
 
 
 def official_detail_url(url, origin=''):
@@ -353,6 +365,10 @@ def crawl_lists(config: dict,http,env=None,renderer=None,run_index=0):
         return None,url
     for s in ordered:
         h=source_status(s,'not_attempted'); health.append(h); mode=s['mode']
+        if s.get('_rotating_roster') and not s.get('_active_this_run'):
+            h['status']='scheduled_rotation_skip'
+            h['note']='Listed for broad discovery; scheduled for another rotation. NOT checked on this run.'
+            continue
         if mode in ('manual','authorized_only'):
             h['status']='manual_or_authorized_source_required'; continue
         if mode=='api':
@@ -383,6 +399,19 @@ def crawl_lists(config: dict,http,env=None,renderer=None,run_index=0):
         # checked even if one route fails; it is not a CAPTCHA/robots bypass.
         elif s.get('entry_points'):
             extras.append((s,h,None,origin))
+    # Every root is attempted in company-first order. For *secondary* page
+    # discovery, reserve scarce rendering capacity for important job boards,
+    # official internship programmes and known employer career routes before
+    # generic corporate homepages. Otherwise 30 JS-only company roots can use
+    # all browser slots before GameJob/JobKorea is considered.
+    board_first = {'gamejob': 0, 'jobkorea': 1, 'saramin': 2, 'wanted': 3, 'incruit': 4}
+    extras.sort(key=lambda x: (
+        0 if x[0]['id'] in board_first else
+        1 if x[0].get('source_class') == 'official_program' else
+        2 if x[0].get('source_class') == 'official_careers' else
+        3 if x[0].get('source_class') == 'job_board' else 4,
+        board_first.get(x[0]['id'], 100), x[0].get('priority', 2)
+    ))
     for s,h,first_html,origin in extras:
         cap=int(s.get('max_pages',config.get('max_listing_pages_per_source',3)))
         remaining=max(0,cap-len(h['pages'])); seen={p['url'] for p in h['pages']}

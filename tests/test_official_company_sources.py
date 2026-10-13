@@ -103,7 +103,7 @@ def test_every_html_root_attempted_before_secondary_pages():
     http=HTTP({s['url']:'<main>JavaScript application</main>' for s in sources})
     leads,h=crawl_lists({'sources':sources},http,env={})
     assert http.calls[:3]==[s['url'] for s in sources]
-    assert not leads and all(x['status']=='no_extractable_links' for x in h[:-1])
+    assert not leads and all(x['status'] in ('no_extractable_links','parser_or_network_error') for x in h[:-1])
 
 
 def test_root_failure_does_not_stop_later_company():

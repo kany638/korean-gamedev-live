@@ -10,6 +10,7 @@ on:
       - 'tests/**'
       - 'tools/**'
       - 'config.yaml'
+      - 'industry_registry.yaml'
       - 'requirements.txt'
       - 'site/index.html'
       - 'site/dashboard.js'

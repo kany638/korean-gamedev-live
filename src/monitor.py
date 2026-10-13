@@ -15,6 +15,7 @@ from .transport import PublicHTTP, FetchError, authorization_only
 from .classifier import analyze
 from .calendar_feed import make_ics
 from .browser import PublicRenderer
+from .industry_expansion import broaden_config
 from urllib.parse import urlparse
 
 ROOT=Path(__file__).resolve().parent.parent
@@ -110,6 +111,10 @@ def scan(config,state,now,http=None,env=None,renderer=None):
         domain_limit=config.get('max_requests_per_domain',50),max_seconds=config.get('max_runtime_seconds',1080))
     if isinstance(http,PublicHTTP):
         http.allowed_greenhouse_boards={s['board_token'] for s in config['sources'] if s.get('kind')=='greenhouse'}
+    # Broaden beyond the fixed V3 company list without discarding any earlier
+    # verified posting state. Roster/homepage entries are never job postings.
+    config, expansion_health = broaden_config(config,state,now,http,int(state.get('run_count',0)))
+    configure_domains(config)
     owned_renderer=renderer is None
     renderer=renderer or PublicRenderer(http,config.get('browser',{}))
     run_index=int(state.get('run_count',0))
@@ -212,24 +217,26 @@ def scan(config,state,now,http=None,env=None,renderer=None):
     source_history=state.setdefault('source_history',{})
     for h in health:
         previous=source_history.get(h['id'],{})
-        h['checked_at']=now.isoformat()
+        # Scheduled rotations are NOT attempts; retain the genuine checked-at time.
+        h['checked_at']=previous.get('checked_at') if h['status']=='scheduled_rotation_skip' else now.isoformat()
         fetched=any(p.get('status') in ('html_received','rendered_received') for p in h.get('pages',[])) or h['status'] in ('api_response_received','official_api_response_received')
         h['last_listing_success']=now.isoformat() if fetched else previous.get('last_listing_success')
         h['last_detail_success']=now.isoformat() if h['detail_verified'] else previous.get('last_detail_success')
         source_history[h['id']]={k:h[k] for k in ('checked_at','status','last_listing_success','last_detail_success')}
     state['last_scanned']=now.isoformat()
     if verified: state['last_verified_scan']=now.isoformat()
-    state['version']=3
+    state['version']=4 if expansion_health.get('enabled') else 3
     for url,r in list(state['rejected'].items()):
         if hours(r.get('last_attempt'),now)>24*14: del state['rejected'][url]
     for url,r in list(state['jobs'].items()):
         if r.get('status')=='closed' and hours(r.get('closed_at'),now)>24*90: del state['jobs'][url]
-    health_out=dict(version=3,last_scan_kst=now.isoformat(),last_verified_scan_kst=state.get('last_verified_scan'),
+    health_out=dict(version=state['version'],industry_expansion=expansion_health,
+                   expanded_source_catalog=[{k:v for k,v in x.items() if k in ('id','name','url','mode','note','source_class','targets','reference_url','reference_status','entry_points','render_js')} for x in config['sources']],last_scan_kst=now.isoformat(),last_verified_scan_kst=state.get('last_verified_scan'),
                    sources=health,candidate_links=len(leads),unverified_candidates=pending[:150],
                    detail_attempts=len(queue),deferred_detail_links=len(state['pending']),source_class_counts=dict(Counter(s.get('source_class','job_board') for s in config['sources'])),verified_detail_records=verified,new_matches=created,changed_matches=changed,
                    detail_errors=errors,request_count=http.requests_made,classification_counts=dict(reasons),
                    run_status='records_verified' if verified else 'degraded_no_verified_details',
-                   warning='Capped, rule-based coverage. A configured source/search result is NOT a verified posting. Check source failures.')
+                   warning='Broadened rotating discovery, NOT exhaustive market coverage. Only successful listing/detail checks count; check source failures.')
     return state,health_out
 
 
@@ -264,7 +271,7 @@ def publish(config,state,health,now,output:Path):
     health['calendar_events']=len(jobs)
     health['active_events']=sum(j.get('status')!='closed' for j in jobs)
     write_json(site/'health.json',health)
-    write_json(site/'source_catalog.json',[{k:v for k,v in s.items() if k in ('id','name','url','mode','note','source_class','targets','reference_url','reference_checked','reference_status','entry_points','render_js')} for s in config['sources']])
+    write_json(site/'source_catalog.json',health.get('expanded_source_catalog') or [{k:v for k,v in s.items() if k in ('id','name','url','mode','note','source_class','targets','reference_url','reference_checked','reference_status','entry_points','render_js')} for s in config['sources']])
     write_json(output/'data/state.json',state)
 
 

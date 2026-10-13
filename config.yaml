@@ -775,9 +775,12 @@ sources:
   note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
   source_class: job_board
   priority: 2
-  render_js: false
+  render_js: true
   max_portals: 0
-  max_pages: 2
+  max_pages: 4
+  entry_points:
+  - https://www.gamejob.co.kr/Recruit/Main
+  - https://www.gamejob.co.kr/Recruit/joblist?divice=1&menucode=category
 - id: jobkorea
   name: 잡코리아 JobKorea
   url: https://www.jobkorea.co.kr/recruit/joblist
@@ -788,9 +791,9 @@ sources:
   note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
   source_class: job_board
   priority: 2
-  render_js: false
+  render_js: true
   max_portals: 0
-  max_pages: 2
+  max_pages: 4
 - id: saramin
   name: 사람인 Saramin · 승인 API
   url: https://oapi.saramin.co.kr/guide/job-search
@@ -829,9 +832,9 @@ sources:
   note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
   source_class: job_board
   priority: 2
-  render_js: false
+  render_js: true
   max_portals: 0
-  max_pages: 2
+  max_pages: 3
 - id: incruit
   name: 인크루트 Incruit
   url: https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84
@@ -844,9 +847,9 @@ sources:
   note: Public HTML attempt; no JavaScript rendering or exhaustive pagination. Runtime status required.
   source_class: job_board
   priority: 2
-  render_js: false
+  render_js: true
   max_portals: 0
-  max_pages: 2
+  max_pages: 3
 - id: jumpit
   name: 점핏 Jumpit · 직접 확인
   url: https://jumpit.saramin.co.kr/
@@ -963,3 +966,11 @@ browser:
   timeout_ms: 18000
   settle_ms: 1800
 max_pending_leads: 1800
+
+# V4 additional game company discovery: membership/homepage and approved search.
+industry_expansion:
+  enabled: true
+  directory_refresh_hours: 168
+  sites_per_run: 18
+  pages_per_homepage: 2
+  add_company_search_queries: true

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:c51ee8f98ca555a872c5c58c@gamedev-live.example
-DTSTAMP:20261012T201631Z
+DTSTAMP:20261013T033156Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -23,8 +23,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스
  택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비
  자 등은 원문 확인\n근무지: 경기 > 성남시 분당구\n확인 
- 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T05:16:31.
- 781650+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거:
+ 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T12:31:56.
+ 797339+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거:
   마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종일
  표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recru
  it/GI_Read/View?GI_No=285027\n자동 규칙 분류. 학위/비자/졸업
@@ -34,11 +34,137 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285027
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dd50fdefc6336924955aa3ec@gamedev-live.example
+DTSTAMP:20261013T033156Z
+LAST-MODIFIED:20261013T033156Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:㈜이스트게임즈 · 검토 · [신입] 모바일 RTS 서버 
+ 프로그래머
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: ㈜이스트게임즈\n직무: [신입] 모바
+ 일 RTS 서버 프로그래머\n경력: 신입 / 경력 0년 지원 경로
+ \n경력 근거: \n고용: 정규직\n적합성: 보조 분야 · Unity/C#
+ /서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 제한
+  미발견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 서
+ 초구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-
+ 10-13T12:31:56.797339+09:00\n첫 발견: 2026-10-13T12:31:56.797339+09:00\
+ n마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 미
+ 확인\; 종일표시는 자정 마감이 아님\n출처: https://www.game
+ job.co.kr/Recruit/GI_Read/View?GI_No=283938\n자동 규칙 분류. 학위/
+ 비자/졸업연도 등 최종 자격은 원문 검토.\n모든 사이트/
+ 공고의 완전수집 또는 자격 충족을 보장하지 않음. 지원
+  전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283938
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:(주)스마일게이트 슈퍼크리에이 · 검토 · [에픽
- 세븐] 컨텐츠 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261013T000000Z
+DESCRIPTION:㈜이스트게임즈 · 검토 · [신입] 모바일 RTS 서
+ 버 프로그래머
+TRIGGER;VALUE=DATE-TIME:20261014T000000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42a4007b0bdffc518667833d@gamedev-live.example
+DTSTAMP:20261013T033156Z
+LAST-MODIFIED:20261013T033156Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:㈜이스트게임즈 · 검토 · [경력] 모바일 RTS 서버 
+ 프로그래머
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: ㈜이스트게임즈\n직무: [경력] 모바
+ 일 RTS 서버 프로그래머\n경력: 경력 3년 이상 요구 · 도
+ 전 지원\n경력 근거: 3년 이상\n고용: 정규직\n적합성: 보
+ 조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 
+ 재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
+ 근무지: 서울 > 서초구\n확인 방식: direct_page_parsed\n최근 
+ 원문/API 확인: 2026-10-13T12:31:56.797339+09:00\n첫 발견: 2026-10-1
+ 3T12:31:56.797339+09:00\n마감 근거: 마감일 미확인\n공고 시각
+ : 정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n
+ 출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283937\n자
+ 동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원문 
+ 검토.\n모든 사이트/공고의 완전수집 또는 자격 충족을 
+ 보장하지 않음. 지원 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283937
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:㈜이스트게임즈 · 검토 · [경력] 모바일 RTS 서
+ 버 프로그래머
+TRIGGER;VALUE=DATE-TIME:20261014T000000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:273a56dcb6e4de599eade2ff@gamedev-live.example
+DTSTAMP:20261013T033156Z
+LAST-MODIFIED:20261013T033156Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:㈜이스트게임즈 · 검토 · [신입] MMORPG 온라인/모바
+ 일 게임 클라이언트 프로그래머
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: ㈜이스트게임즈\n직무: [신입] MMORPG 
+ 온라인/모바일 게임 클라이언트 프로그래머\n경력: 신입
+  / 경력 0년 지원 경로\n경력 근거: \n고용: 정규직\n적합
+ 성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸
+ 업자: 재학생 전용 제한 미발견 · 학위/비자 등은 원문 
+ 확인\n근무지: 서울 > 서초구\n확인 방식: direct_page_parsed\n
+ 최근 원문/API 확인: 2026-10-13T12:31:56.797339+09:00\n첫 발견: 20
+ 26-10-13T12:31:56.797339+09:00\n마감 근거: 마감일 미확인\n공고
+  시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
+ 님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283936\n
+ 자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원
+ 문 검토.\n모든 사이트/공고의 완전수집 또는 자격 충족
+ 을 보장하지 않음. 지원 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283936
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:㈜이스트게임즈 · 검토 · [신입] MMORPG 온라인/
+ 모바일 게임 클라이언트 프로그래머
+TRIGGER;VALUE=DATE-TIME:20261014T000000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:356070ebf5c969552363b67f@gamedev-live.example
+DTSTAMP:20261013T033156Z
+LAST-MODIFIED:20261013T033156Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:㈜이스트게임즈 · 검토 · [경력] MMORPG 온라인/모바
+ 일 게임 클라이언트 프로그래머
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: ㈜이스트게임즈\n직무: [경력] MMORPG 
+ 온라인/모바일 게임 클라이언트 프로그래머\n경력: 경력
+  3년 이상 요구 · 도전 지원\n경력 근거: 3년 이상\n고용: 
+ 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스
+ 택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비
+ 자 등은 원문 확인\n근무지: 서울 > 서초구\n확인 방식: di
+ rect_page_parsed\n최근 원문/API 확인: 2026-10-13T12:31:56.797339+09:
+ 00\n첫 발견: 2026-10-13T12:31:56.797339+09:00\n마감 근거: 마감일
+  미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 
+ 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read
+ /View?GI_No=283935\n자동 규칙 분류. 학위/비자/졸업연도 등 
+ 최종 자격은 원문 검토.\n모든 사이트/공고의 완전수집 
+ 또는 자격 충족을 보장하지 않음. 지원 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283935
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:㈜이스트게임즈 · 검토 · [경력] MMORPG 온라인/
+ 모바일 게임 클라이언트 프로그래머
+TRIGGER;VALUE=DATE-TIME:20261014T000000Z
 END:VALARM
 END:VEVENT
 END:VCALENDAR

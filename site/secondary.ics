@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:c51ee8f98ca555a872c5c58c@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -23,8 +23,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스
  택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비
  자 등은 원문 확인\n근무지: 경기 > 성남시 분당구\n확인 
- 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.
- 398618+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거:
+ 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.
+ 922261+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거:
   마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종일
  표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recru
  it/GI_Read/View?GI_No=285027\n자동 규칙 분류. 학위/비자/졸업
@@ -37,7 +37,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9f98e64d3d8844f100100e4c@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -52,7 +52,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  ity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 
  제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 슈퍼
  패스트 제주\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775
+ 인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775
  544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 
  시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https:
  //111percent.career.greetinghr.com/ko/o/223882\n자동 규칙 분류. 학
@@ -62,16 +62,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://111percent.career.greetinghr.com/ko/o/223882
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:111퍼센트 · 검토 · [스팀(Steam)] 클라이언트 개
- 발자 111퍼센트 개발 경력 3년 
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9dfb632135d3e666ab2f3587@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -84,7 +78,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  ity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 
  제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 서울 
  > 서초구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 
- 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+0
+ 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+0
  9:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://www.g
  amejob.co.kr/Recruit/GI_Read/View?GI_No=284467\n자동 규칙 분류. 학
@@ -94,16 +88,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284467
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NX3GAMES · 검토 · [Project M5] [서버] 서버 프로그래
- 머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:356070ebf5c969552363b67f@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -117,7 +105,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스
  택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비
  자 등은 원문 확인\n근무지: 서울 > 서초구\n확인 방식: di
- rect_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:
+ rect_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:
  00\n첫 발견: 2026-10-13T12:31:56.797339+09:00\n마감 근거: 마감일
   미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 
  자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read
@@ -127,16 +115,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283935
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:㈜이스트게임즈 · 검토 · [경력] MMORPG 온라인/
- 모바일 게임 클라이언트 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:273a56dcb6e4de599eade2ff@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -150,7 +132,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸
  업자: 재학생 전용 제한 미발견 · 학위/비자 등은 원문 
  확인\n근무지: 서울 > 서초구\n확인 방식: direct_page_parsed\n
- 최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 20
+ 최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 20
  26-10-13T12:31:56.797339+09:00\n마감 근거: 마감일 미확인\n공고
   시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
  님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283936\n
@@ -160,16 +142,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283936
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:㈜이스트게임즈 · 검토 · [신입] MMORPG 온라인/
- 모바일 게임 클라이언트 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:42a4007b0bdffc518667833d@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -183,7 +159,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 
  재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
  근무지: 서울 > 서초구\n확인 방식: direct_page_parsed\n최근 
- 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-1
+ 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-1
  3T12:31:56.797339+09:00\n마감 근거: 마감일 미확인\n공고 시각
  : 정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n
  출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283937\n자
@@ -193,16 +169,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283937
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:㈜이스트게임즈 · 검토 · [경력] 모바일 RTS 서
- 버 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd50fdefc6336924955aa3ec@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -216,7 +186,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  /서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 제한
   미발견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 서
  초구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-
- 10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T12:31:56.797339+09:00\
+ 10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T12:31:56.797339+09:00\
  n마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 미
  확인\; 종일표시는 자정 마감이 아님\n출처: https://www.game
  job.co.kr/Recruit/GI_Read/View?GI_No=283938\n자동 규칙 분류. 학위/
@@ -226,16 +196,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283938
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:㈜이스트게임즈 · 검토 · [신입] 모바일 RTS 서
- 버 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b759d4429e91332a4ec08481@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -249,7 +213,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 인턴 졸업
  자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 
  불가)\n근무지: 서울 > 성동구\n확인 방식: direct_page_parsed\
- n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2
+ n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2
  026-10-13T20:43:54.398618+09:00\n마감 근거: 마감일 미확인\n공
  고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 
  아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=28314
@@ -259,16 +223,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283141
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [기어세컨드] 서버 프로그
- 래머 전환형 인턴
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:603caf040b80f6a99f892ddd@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -281,8 +239,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 
  기술스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
  학위/비자 등은 원문 확인\n근무지: 서울 > 성동구\n확인 
- 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.
- 398618+09:00\n첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거:
+ 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.
+ 922261+09:00\n첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거:
   마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종일
  표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recru
  it/GI_Read/View?GI_No=284118\n자동 규칙 분류. 학위/비자/졸업
@@ -292,16 +250,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284118
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [슬레이어 키우기] 게임 
- 클라이언트 개발자
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf5905a94698e9f07b276ab@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -315,7 +267,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전
  용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 서
  울 > 성동구\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T20:43:54.398
+ 인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T20:43:54.398
  618+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 
  시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https:
  //www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284551\n자동 규칙 분
@@ -325,16 +277,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284551
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [기어세컨드] 서버 프로그
- 래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:81b424703607cb1eee7ec9e9@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -348,7 +294,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학
  생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무
  지: 서울 > 성동구\n확인 방식: direct_page_parsed\n최근 원문/
- API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T20:43
+ API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T20:43
  :54.398618+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정
  확한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처:
   https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284588\n자동 규
@@ -358,16 +304,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284588
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [기어세컨드] 게임 플랫폼
-  개발자
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e464639c8520b24ca2ae0f@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -381,7 +321,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전
  용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 서
  울 > 성동구\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T20:43:54.398
+ 인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T20:43:54.398
  618+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 
  시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https:
  //www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284779\n자동 규칙 분
@@ -391,16 +331,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284779
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [기어세컨드] 풀스택 엔지
- 니어
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:13b133d1a5c18c3ed24bed0c@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -413,8 +347,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기
  술스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학
  위/비자 등은 원문 확인\n근무지: 서울 > 성동구\n확인 방
- 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398
- 618+09:00\n첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거: 
+ 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922
+ 261+09:00\n첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거: 
  마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종일표
  시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/
  GI_Read/View?GI_No=285346\n자동 규칙 분류. 학위/비자/졸업연
@@ -424,16 +358,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285346
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [신규 프로젝트] 게임 클
- 라이언트 개발자
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b7528f780f91f5df8128a673@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -446,8 +374,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  거: \n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 
  등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발견 
  · 학위/비자 등은 원문 확인\n근무지: 서울 > 서초구\n확
- 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43
- :54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
+ 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53
+ :29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
  거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종
  일표시는 자정 마감이 아님\n출처: https://job.incruit.com/jobd
  b_info/jobpost.asp?job=2609220000820&src=gsw%2Aetc\n자동 규칙 분류. 
@@ -458,16 +386,10 @@ URL:https://job.incruit.com/jobdb_info/jobpost.asp?job=2609220000820&src=gs
  w%2Aetc
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:이스트게임즈 · 검토 · MMORPG 클라이언트/모바
- 일 RTS 서버 프로그래머
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:39c43b8cf506da7d9d8c573d@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -481,7 +403,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n
  기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct_page_p
- arsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발
+ arsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발
  견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 마감일 미확인\
  n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=2
@@ -491,16 +413,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=269964
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [마비노기 모바일] 전
- 투 로직 프로그래머 모집
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:556871457913a487b0e610eb@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -513,8 +429,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   근거: \n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/
  툴 등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 강남구\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20
- :43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 
+ 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10
+ :53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 
  근거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr
  /Recruit/GI_Read/View?GI_No=271066\n자동 규칙 분류. 학위/비자/
@@ -524,16 +440,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=271066
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [마비노기 모바일] 연
- 구 개발 프로그래머 모집
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f5f3d58e580c41ff70e55bff@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -547,7 +457,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  /C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 제
  한 미발견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 
  강남구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 20
- 26-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:
+ 26-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:
  00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://www.g
  amejob.co.kr/Recruit/GI_Read/View?GI_No=271753\n자동 규칙 분류. 학
@@ -557,50 +467,39 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=271753
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [마비노기 모바일] 게
- 임 프레임워크 프로그래머 모집
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82e2291644967da53837b21a@gamedev-live.example
-DTSTAMP:20261013T114354Z
-LAST-MODIFIED:20261013T062315Z
-SEQUENCE:0
+DTSTAMP:20261014T015329Z
+LAST-MODIFIED:20261014T015329Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:회사 원문 확인 · 검토 · [프로젝트DL] 빌드/툴/시
- 스템 클라이언트 프로그래머 (근무지 서울지
-DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
- 등록일 아님\n회사: 회사 원문 확인\n직무: [프로젝트DL] 
- 빌드/툴/시스템 클라이언트 프로그래머 (근무지 서울지
- 사)\n경력: 경력 3년 이상 요구 · 도전 지원\n경력 근거: 3
- 년 이상\n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버
- /툴 등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발
- 견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 강남구\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20
- :43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 
- 근거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 
- 종일표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr
- /Recruit/GI_Read/View?GI_No=282743\n자동 규칙 분류. 학위/비자/
- 졸업연도 등 최종 자격은 원문 검토.\n모든 사이트/공고
- 의 완전수집 또는 자격 충족을 보장하지 않음. 지원 전 
- 원문 확인.
+SUMMARY:회사 원문 확인 · 마감됨 · [프로젝트DL] 빌드/툴/
+ 시스템 클라이언트 프로그래머 (근무지 서울지
+DESCRIPTION:모집 종료/지원대상 아님을 확인한 공고입니다.
+ \n첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 등록일
+  아님\n회사: 회사 원문 확인\n직무: [프로젝트DL] 빌드/툴
+ /시스템 클라이언트 프로그래머 (근무지 서울지사)\n경
+ 력: 경력 3년 이상 요구 · 도전 지원\n경력 근거: 3년 이
+ 상\n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 
+ 등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발견 
+ · 학위/비자 등은 원문 확인\n근무지: 서울 > 강남구\n확
+ 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53
+ :29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
+ 거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종
+ 일표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr/Re
+ cruit/GI_Read/View?GI_No=282743\n자동 규칙 분류. 학위/비자/졸
+ 업연도 등 최종 자격은 원문 검토.\n모든 사이트/공고의 
+ 완전수집 또는 자격 충족을 보장하지 않음. 지원 전 원
+ 문 확인.
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=282743
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [프로젝트DL] 빌드/툴/
- 시스템 클라이언트 프로그래머 (근무지 서울지
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:364f862c48d2dc801fcf27fd@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -613,8 +512,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   근거: \n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/
  툴 등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: 서울 > 강남구\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20
- :43:54.398618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 
+ 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10
+ :53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 
  근거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr
  /Recruit/GI_Read/View?GI_No=283339\n자동 규칙 분류. 학위/비자/
@@ -624,16 +523,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=283339
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [마비노기 모바일] 게
- 임 로직 프로그래머 모집
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7086257a36257845dfc3b152@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -647,7 +540,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재
  학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근
  무지: 서울 > 강남구\n확인 방식: direct_page_parsed\n최근 원
- 문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 2026-10-13T1
+ 문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T1
  5:23:15.775544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 
  정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n출
  처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285287\n자동 
@@ -657,16 +550,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285287
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 검토 · [에버플래닛] 서버 프
- 로그래머 (C#/.NET) (신입/경력 3년이하
-TRIGGER;VALUE=DATE-TIME:20261014T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d7abdf3a37e703dd3c6edff0@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261108
@@ -679,7 +566,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 회사 원문 확인\n
  조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자: 
  재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
  근무지: 경기 > 용인시 기흥구\n확인 방식: direct_page_parsed
- \n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 발견: 
+ \n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 
  2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고의 명시적 마
  감일 · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://www.gamejob.co.kr
@@ -705,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:502c219c762bfaf6c971bf92@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261108
@@ -718,7 +605,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 회사 원문 확인\n
  성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸
  업자: 재학생 전용 제한 미발견 · 학위/비자 등은 원문 
  확인\n근무지: 경기 > 용인시 기흥구\n확인 방식: direct_pag
- e_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:00\n첫 
+ e_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n첫 
  발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고의 명시
  적 마감일 · 시각 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://www.gamejob
@@ -744,7 +631,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5315ecdcfa8d938f327f191d@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261108
@@ -757,7 +644,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 회사 원문 확인\n
  적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n
  기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: 경기 > 용인시 기흥구\n확인 방식: dir
- ect_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398618+09:0
+ ect_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:0
  0\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고의 
  명시적 마감일 · 시각 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://www.g
@@ -783,7 +670,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b8796eebfb6aed1b6be241b8@gamedev-live.example
-DTSTAMP:20261013T114354Z
+DTSTAMP:20261014T015329Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261126
@@ -796,8 +683,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: [야
  규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 
  확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: KR 서울특별시 금천구\n확인 방
- 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-13T20:43:54.398
- 618+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 
+ 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922
+ 261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 
  공고 지원기간 종료일 · 시각 미확인\n공고 시각: 정확
  한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처: ht
  tps://job.incruit.com/jobdb_info/jobpost.asp?job=2609290000014&src=gsw%2Ae

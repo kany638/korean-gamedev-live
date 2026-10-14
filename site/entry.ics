@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:7efe80ac1df530430b73bec7@gamedev-live.example
-DTSTAMP:20261014T015329Z
+DTSTAMP:20261014T092939Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -23,7 +23,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
  학위/비자 등은 원문 확인\n근무지: 경기 > 성남시 분당
  구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-
- 14T10:53:29.922261+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n
+ 14T18:29:39.431990+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n
  마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://www.gamejob
  .co.kr/Recruit/GI_Read/View?GI_No=285795\n자동 규칙 분류. 학위/비
@@ -36,7 +36,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:954f2959d5db29585aa1d8dd@gamedev-live.example
-DTSTAMP:20261014T015329Z
+DTSTAMP:20261014T092939Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -49,7 +49,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  규직\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택
   확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: 서울 > 성동구\n확인 방식: direct
- _page_parsed\n최근 원문/API 확인: 2026-10-14T10:53:29.922261+09:00\n
+ _page_parsed\n최근 원문/API 확인: 2026-10-14T18:29:39.431990+09:00\n
  첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거: 마감일 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47360bd8d091a564b56155bd@gamedev-live.example
-DTSTAMP:20261014T015329Z
+DTSTAMP:20261014T092939Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -74,7 +74,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학생
   전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지:
   서울 > 금천구\n확인 방식: direct_page_parsed\n최근 원문/API 
- 확인: 2026-10-14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.
+ 확인: 2026-10-14T18:29:39.431990+09:00\n첫 발견: 2026-10-13T15:23:15.
  775544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한
   시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https
  ://job.incruit.com/jobdb_info/jobpost.asp?job=2610100000203&src=gsw%2Aetc\
@@ -87,42 +87,64 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:284522d7bf49fe30d9b0a469@gamedev-live.example
-DTSTAMP:20261014T015329Z
-LAST-MODIFIED:20261013T062315Z
+UID:201830b7fd51118df0ba6aa7@gamedev-live.example
+DTSTAMP:20261014T092939Z
+LAST-MODIFIED:20261014T092939Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:회사 원문 확인 · 마감 · [CROSSFIRE] Test Engineer 담당 
- (계약직) 모집
-DESCRIPTION:실제 공고/API의 마감일\n회사: 회사 원문 확인\n
- 직무: [CROSSFIRE] Test Engineer 담당 (계약직) 모집\n경력: 신
- 입 / 경력 0년 지원 경로\n경력 근거: \n고용: 계약직 (계
- 약기간 : 1년)\n적합성: 게임 클라이언트/엔진/프로그래
- 밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
- 학위/비자 등은 원문 확인\n근무지: 경기 > 성남시 분당
- 구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-
- 14T10:53:29.922261+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n
- 마감 근거: 공고의 명시적 마감일 · 시각 미확인\n공고 
- 시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
- 님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285314\n
- 자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격은 원
- 문 검토.\n모든 사이트/공고의 완전수집 또는 자격 충족
- 을 보장하지 않음. 지원 전 원문 확인.
-URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285314
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:에이블게임즈 · 검토 · [메이플키우기] 클라이언
+ 트 프로그래머 모집 (산업기능요원 현역/보충역
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: 에이블게임즈\n직무: [메이플키우기]
+  클라이언트 프로그래머 모집 (산업기능요원 현역/보충
+ 역 가능)\n경력: 경력무관\n경력 근거: \n고용: 정규직\n적
+ 합성: 게임 클라이언트/엔진/프로그래밍 · 스택 확인\n
+ 기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
+ 원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct_page_p
+ arsed\n최근 원문/API 확인: 2026-10-14T18:29:39.431990+09:00\n첫 발
+ 견: 2026-10-14T18:29:39.431990+09:00\n마감 근거: 마감일 미확인\
+ n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
+ 이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=2
+ 84106\n자동 규칙 분류. 학위/비자/졸업연도 등 최종 자격
+ 은 원문 검토.\n모든 사이트/공고의 완전수집 또는 자격 
+ 충족을 보장하지 않음. 지원 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=284106
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 마감 · [CROSSFIRE] Test Engineer 담
- 당 (계약직) 모집
-TRIGGER;VALUE=DATE-TIME:20261029T000000Z
+DESCRIPTION:에이블게임즈 · 검토 · [메이플키우기] 클라이
+ 언트 프로그래머 모집 (산업기능요원 현역/보충역
+TRIGGER;VALUE=DATE-TIME:20261015T000000Z
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:회사 원문 확인 · 마감 · [CROSSFIRE] Test Engineer 담
+END:VEVENT
+BEGIN:VEVENT
+UID:284522d7bf49fe30d9b0a469@gamedev-live.example
+DTSTAMP:20261014T092939Z
+LAST-MODIFIED:20261014T092939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:회사 원문 확인 · 마감됨 · [CROSSFIRE] Test Engineer 담
  당 (계약직) 모집
-TRIGGER;VALUE=DATE-TIME:20261030T000000Z
-END:VALARM
+DESCRIPTION:모집 종료/지원대상 아님을 확인한 공고입니다.
+ \n실제 공고/API의 마감일\n회사: 회사 원문 확인\n직무: [C
+ ROSSFIRE] Test Engineer 담당 (계약직) 모집\n경력: 신입 / 경력
+  0년 지원 경로\n경력 근거: \n고용: 계약직 (계약기간 : 1
+ 년)\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택 
+ 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
+ 등은 원문 확인\n근무지: 경기 > 성남시 분당구\n확인 방
+ 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-14T18:29:39.431
+ 990+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 
+ 공고의 명시적 마감일 · 시각 미확인\n공고 시각: 정확
+ 한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처: ht
+ tps://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285314\n자동 규칙 
+ 분류. 학위/비자/졸업연도 등 최종 자격은 원문 검토.\n
+ 모든 사이트/공고의 완전수집 또는 자격 충족을 보장하
+ 지 않음. 지원 전 원문 확인.
+URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=285314
+TRANSP:TRANSPARENT
+STATUS:CANCELLED
 END:VEVENT
 END:VCALENDAR

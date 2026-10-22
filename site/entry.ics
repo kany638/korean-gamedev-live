@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:7efe80ac1df530430b73bec7@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -23,7 +23,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
  학위/비자 등은 원문 확인\n근무지: 경기 > 성남시 분당
  구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-
- 22T00:56:42.523212+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n
+ 22T10:29:34.499354+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n
  마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://www.gamejob
  .co.kr/Recruit/GI_Read/View?GI_No=285795\n자동 규칙 분류. 학위/비
@@ -36,7 +36,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:954f2959d5db29585aa1d8dd@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -49,7 +49,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  규직\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택
   확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: 서울 > 성동구\n확인 방식: direct
- _page_parsed\n최근 원문/API 확인: 2026-10-22T00:56:42.523212+09:00\n
+ _page_parsed\n최근 원문/API 확인: 2026-10-22T10:29:34.499354+09:00\n
  첫 발견: 2026-10-13T20:43:54.398618+09:00\n마감 근거: 마감일 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47360bd8d091a564b56155bd@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -74,7 +74,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학생
   전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지:
   서울 > 금천구\n확인 방식: direct_page_parsed\n최근 원문/API 
- 확인: 2026-10-22T00:56:42.523212+09:00\n첫 발견: 2026-10-13T15:23:15.
+ 확인: 2026-10-22T10:29:34.499354+09:00\n첫 발견: 2026-10-13T15:23:15.
  775544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한
   시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https
  ://job.incruit.com/jobdb_info/jobpost.asp?job=2610100000203&src=gsw%2Aetc\
@@ -88,7 +88,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:201830b7fd51118df0ba6aa7@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261014T092939Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261016
@@ -102,7 +102,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  합성: 게임 클라이언트/엔진/프로그래밍 · 스택 확인\n
  기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct_page_p
- arsed\n최근 원문/API 확인: 2026-10-22T00:56:42.523212+09:00\n첫 발
+ arsed\n최근 원문/API 확인: 2026-10-22T10:29:34.499354+09:00\n첫 발
  견: 2026-10-14T18:29:39.431990+09:00\n마감 근거: 마감일 미확인\
  n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=2
@@ -115,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:284522d7bf49fe30d9b0a469@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261014T092939Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261031
@@ -143,7 +143,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e616a4c22abb286e7a80862@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261014T154914Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261214
@@ -156,7 +156,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 회사 원문 확인\n
  적합성: C++ / Unreal / 게임플레이 우선\n기졸업자: 재학생 
  전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 
  경기 > 파주시\n확인 방식: direct_page_parsed\n최근 원문/API 
- 확인: 2026-10-22T00:56:42.523212+09:00\n첫 발견: 2026-10-14T18:29:39.
+ 확인: 2026-10-22T10:29:34.499354+09:00\n첫 발견: 2026-10-14T18:29:39.
  431990+09:00\n마감 근거: 공고의 명시적 마감일 · 시각 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://www.gamejob.co.kr/Recruit/GI_Read/View?
@@ -181,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a941b6d1bbbb313daef46246@gamedev-live.example
-DTSTAMP:20261021T155642Z
+DTSTAMP:20261022T012934Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261231
@@ -194,7 +194,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넷마블컴퍼니\n직
  라이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학
  생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무
  지: KR 서울특별시 구로구\n확인 방식: direct_page_parsed\n최
- 근 원문/API 확인: 2026-10-22T00:56:42.523212+09:00\n첫 발견: 2026-
+ 근 원문/API 확인: 2026-10-22T10:29:34.499354+09:00\n첫 발견: 2026-
  10-21T00:39:07.619697+09:00\n마감 근거: 공고 지원기간 종료일 
  · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 종일표
  시는 자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info

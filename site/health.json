@@ -2,19 +2,20 @@
   "active_events": 97,
   "calendar_events": 106,
   "candidate_links": 104,
-  "changed_matches": 6,
+  "changed_matches": 0,
   "classification_counts": {
-    "browser_page_budget_reached": 8,
-    "experience_over_3": 2,
+    "experience_over_3": 4,
     "http_500": 1,
-    "matched": 95,
-    "non_programming_role": 5,
-    "not_game_development": 4,
-    "role_unclear_or_not_programming": 3
+    "matched": 94,
+    "non_programming_role": 11,
+    "not_game_development": 5,
+    "program_dates_unconfirmed": 2,
+    "robots_disallowed": 1,
+    "role_unclear_or_not_programming": 2
   },
-  "deferred_detail_links": 20,
-  "detail_attempts": 118,
-  "detail_errors": 9,
+  "deferred_detail_links": 21,
+  "detail_attempts": 120,
+  "detail_errors": 2,
   "expanded_source_catalog": [
     {
       "id": "pearlabyss",
@@ -1218,10 +1219,10 @@
     "original_official_careers": 32,
     "source_registry_entries": 85
   },
-  "last_scan_kst": "2026-10-24T00:44:20.782414+09:00",
-  "last_verified_scan_kst": "2026-10-24T00:44:20.782414+09:00",
-  "new_matches": 1,
-  "request_count": 668,
+  "last_scan_kst": "2026-10-24T10:34:07.743406+09:00",
+  "last_verified_scan_kst": "2026-10-24T10:34:07.743406+09:00",
+  "new_matches": 0,
+  "request_count": 650,
   "run_status": "records_verified",
   "source_class_counts": {
     "corporate_discovery": 41,
@@ -1231,35 +1232,13 @@
   },
   "sources": [
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
-      "id": "neople",
-      "last_detail_success": null,
-      "last_listing_success": null,
-      "matched": 0,
-      "mode": "html",
-      "name": "네오플 · 공식 채용 경로",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "robots_unavailable",
-          "url": "https://www.neople.co.kr/recruit"
-        }
-      ],
-      "source_class": "official_careers",
-      "status": "robots_unavailable",
-      "url": "https://www.neople.co.kr/recruit"
-    },
-    {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "mintrocket",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "민트로켓 · 공식 채용 경로",
@@ -1278,13 +1257,13 @@
       "url": "https://www.mintrock.et/en/careers/careers.php"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "smilegate",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "스마일게이트 그룹",
@@ -1320,13 +1299,13 @@
       "url": "https://rct.smilegate.com/apply/announce"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nc",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "NC · 그룹 채용",
@@ -1345,13 +1324,13 @@
       "url": "https://careers.ncsoft.com/apply/list"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "shiftup",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "시프트업",
@@ -1385,7 +1364,7 @@
       "url": "https://shiftup.co.kr/recruit/recruit.php"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1407,7 +1386,7 @@
       "url": "https://www.neowiz.com/kr/career/browse-job"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1435,13 +1414,13 @@
       "url": "https://recruit.krafton.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "netmarble",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넷마블 · 개발 스튜디오",
@@ -1480,13 +1459,13 @@
       "url": "https://career.netmarble.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "webzen",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "웹젠",
@@ -1509,13 +1488,13 @@
       "url": "https://webzen.recruiter.co.kr/career/job"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "com2us",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "컴투스 그룹 · 공식 리다이렉트",
@@ -1543,13 +1522,13 @@
       "url": "https://recruit.com2us.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 4,
       "detail_verified": 4,
       "discovered": 4,
       "id": "kakaogames",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 4,
       "mode": "html",
       "name": "카카오게임즈",
@@ -1567,13 +1546,13 @@
       "url": "https://recruit.kakaogames.com/ko/joinjuskr"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "devsisters",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "데브시스터즈",
@@ -1598,7 +1577,7 @@
       "url": "https://careers.devsisters.com/ko/home"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1620,7 +1599,7 @@
       "url": "https://career.lionheart.co.kr/recruit"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1642,13 +1621,13 @@
       "url": "https://recruit.wemade.com/oz6xlsi9"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nhn",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "NHN · 게임 프로그래밍 선별",
@@ -1671,7 +1650,7 @@
       "url": "https://careers.nhn.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1693,13 +1672,13 @@
       "url": "https://recruit.npixel.co.kr/recruit"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "five_min_lab",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "public_api",
       "name": "5민랩 · 공식 Greenhouse 공고",
@@ -1710,7 +1689,7 @@
       "url": "https://job-boards.greenhouse.io/5minlab"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1732,14 +1711,13 @@
       "url": "https://xlgames.recruiter.co.kr/appsite/company/index"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 16,
-      "detail_verified": 8,
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 4,
+      "detail_verified": 4,
       "discovered": 16,
       "id": "kog",
-      "last_detail_error": "browser_page_budget_reached",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 4,
       "mode": "html",
       "name": "KOG · 근무지 별도 확인",
@@ -1762,7 +1740,7 @@
       "url": "https://www.kog.co.kr/recruit/info"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1784,7 +1762,7 @@
       "url": "https://devcat.com/careers"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1806,13 +1784,13 @@
       "url": "https://apply.supercat.co.kr/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "hound13",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "하운드13 · 회사가 연결한 공고 포함",
@@ -1835,13 +1813,13 @@
       "url": "https://www.hound13.com/en"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "joycity",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "조이시티 · 공식 채용 경로 탐색",
@@ -1864,7 +1842,7 @@
       "url": "https://corp.joycity.com/ko/main"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -1886,13 +1864,13 @@
       "url": "https://www.gravity.co.kr/en/recruit/jobopening/list"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "playwith",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "플레이위드",
@@ -1915,13 +1893,13 @@
       "url": "https://www.playwith.co.kr/Recruit"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "madngine",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "매드엔진 · 채용 경로 재확인",
@@ -1951,13 +1929,13 @@
       "url": "https://www.madngine.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "neptune",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넵튠 · 채용 경로 재확인",
@@ -1998,7 +1976,7 @@
       "url": "https://www.neptunecompany.kr/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2008,33 +1986,25 @@
       "matched": 0,
       "mode": "html",
       "name": "썸에이지 · 공식 채용 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
       "pages": [
         {
-          "final_url": "https://www.thumbage.co.kr/Main",
           "rendered": false,
-          "status": "html_received",
+          "status": "network_error",
           "url": "https://www.thumbage.co.kr/Main"
-        },
-        {
-          "rendered": false,
-          "status": "redirect_domain_not_approved",
-          "url": "https://www.gamejob.co.kr/Company/Detail?M=13310932"
         }
       ],
-      "render_status": "browser_page_budget_reached",
       "source_class": "official_careers",
-      "status": "redirect_domain_not_approved",
+      "status": "network_error",
       "url": "https://www.thumbage.co.kr/Main"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 2,
       "detail_verified": 2,
       "discovered": 2,
       "id": "studio_3ddea95a6d3b",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 2,
       "mode": "html",
       "name": "111퍼센트 · 홈페이지 경로 탐색",
@@ -2052,14 +2022,14 @@
       "url": "https://111percent.career.greetinghr.com/ko/position"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 6,
-      "detail_verified": 6,
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 13,
+      "detail_verified": 13,
       "discovered": 13,
       "id": "pearlabyss",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
-      "matched": 6,
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
+      "matched": 5,
       "mode": "html",
       "name": "펄어비스",
       "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
@@ -2082,7 +2052,7 @@
       "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2104,13 +2074,13 @@
       "url": "https://careers.nexon.com/recruit"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "nexongames",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넥슨게임즈 · 공식 법인 필터",
@@ -2140,13 +2110,90 @@
       "url": "https://careers.nexon.com/recruit?corpCodes=AG"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 0,
+      "detail_verified": 0,
+      "discovered": 0,
+      "id": "neople",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "matched": 0,
+      "mode": "html",
+      "name": "네오플 · 공식 채용 경로",
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.neople.co.kr/recruit"
+        }
+      ],
+      "source_class": "official_careers",
+      "status": "robots_unavailable",
+      "url": "https://www.neople.co.kr/recruit"
+    },
+    {
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 2,
+      "detail_verified": 1,
+      "discovered": 2,
+      "id": "nextorial",
+      "last_detail_error": "robots_disallowed",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
+      "matched": 0,
+      "mode": "html",
+      "name": "넥토리얼 · 공식 프로그램",
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://nexon-tutorial.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://nexon-tutorial.com/"
+        }
+      ],
+      "source_class": "official_program",
+      "status": "candidates_found",
+      "url": "https://nexon-tutorial.com/"
+    },
+    {
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 1,
+      "detail_verified": 1,
+      "discovered": 1,
+      "id": "com2us_genius",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
+      "matched": 0,
+      "mode": "html",
+      "name": "컴투스 GENIUS · 공식 프로그램",
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.welcom2us.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.welcom2us.com/"
+        },
+        {
+          "final_url": "https://com2us.recruiter.co.kr/career/career",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://com2us.recruiter.co.kr/career/career"
+        }
+      ],
+      "source_class": "official_program",
+      "status": "candidates_found",
+      "url": "https://www.welcom2us.com/"
+    },
+    {
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "smilegate_intern",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "스마일게이트 · 공식 인턴십 안내",
@@ -2171,83 +2218,13 @@
       "url": "https://rct.smilegate.com/student/internship?type=job"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 2,
-      "id": "nextorial",
-      "last_detail_success": "2026-10-23T18:19:31.445652+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
-      "matched": 0,
-      "mode": "html",
-      "name": "넥토리얼 · 공식 프로그램",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://nexon-tutorial.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://nexon-tutorial.com/"
-        }
-      ],
-      "source_class": "official_program",
-      "status": "candidates_found",
-      "url": "https://nexon-tutorial.com/"
-    },
-    {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 1,
-      "id": "com2us_genius",
-      "last_detail_success": "2026-10-23T18:19:31.445652+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
-      "matched": 0,
-      "mode": "html",
-      "name": "컴투스 GENIUS · 공식 프로그램",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.welcom2us.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.welcom2us.com/"
-        },
-        {
-          "final_url": "https://com2us.recruiter.co.kr/career/career",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://com2us.recruiter.co.kr/career/career"
-        }
-      ],
-      "source_class": "official_program",
-      "status": "candidates_found",
-      "url": "https://www.welcom2us.com/"
-    },
-    {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 0,
-      "detail_verified": 0,
-      "discovered": 0,
-      "id": "rocketpunch",
-      "last_detail_success": null,
-      "last_listing_success": null,
-      "matched": 0,
-      "mode": "manual",
-      "name": "로켓펀치 · 직접 확인",
-      "pages": [],
-      "source_class": "job_board",
-      "status": "manual_or_authorized_source_required",
-      "url": "https://www.rocketpunch.com/jobs"
-    },
-    {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 49,
-      "detail_verified": 49,
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 51,
+      "detail_verified": 51,
       "discovered": 35,
       "id": "gamejob",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 43,
       "mode": "html",
       "name": "게임잡 GameJob",
@@ -2277,13 +2254,13 @@
       "url": "https://www.gamejob.co.kr/Recruit/joblist?menucode=searchall"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 5,
       "detail_verified": 5,
-      "discovered": 2,
+      "discovered": 3,
       "id": "jobkorea",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 4,
       "mode": "html",
       "name": "잡코리아 JobKorea",
@@ -2301,7 +2278,7 @@
       "url": "https://www.jobkorea.co.kr/recruit/joblist"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2317,7 +2294,7 @@
       "url": "https://oapi.saramin.co.kr/guide/job-search"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2333,7 +2310,7 @@
       "url": "https://kr.indeed.com/jobs?q=Unreal+game+developer&l=South+Korea"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2355,13 +2332,13 @@
       "url": "https://www.wanted.co.kr/wdlist"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
-      "detail_attempts": 33,
-      "detail_verified": 33,
-      "discovered": 29,
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 35,
+      "detail_verified": 35,
+      "discovered": 28,
       "id": "incruit",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
-      "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 30,
       "mode": "html",
       "name": "인크루트 Incruit",
@@ -2390,7 +2367,7 @@
       "url": "https://job.incruit.com/jobdb_list/searchjob.asp?col=all&kw=%EA%B2%8C%EC%9E%84"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2406,7 +2383,7 @@
       "url": "https://jumpit.saramin.co.kr/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2422,24 +2399,23 @@
       "url": "https://www.linkedin.com/jobs/"
     },
     {
-      "checked_at": "2026-10-23T10:37:17.557676+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
-      "id": "studio_bbce097fd7a6",
+      "id": "rocketpunch",
       "last_detail_success": null,
       "last_listing_success": null,
       "matched": 0,
-      "mode": "html",
-      "name": "창유닷컴코리아 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "mode": "manual",
+      "name": "로켓펀치 · 직접 확인",
       "pages": [],
-      "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
-      "url": "https://www.cyougame.kr/"
+      "source_class": "job_board",
+      "status": "manual_or_authorized_source_required",
+      "url": "https://www.rocketpunch.com/jobs"
     },
     {
-      "checked_at": "2026-10-23T10:37:17.557676+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2449,14 +2425,19 @@
       "matched": 0,
       "mode": "html",
       "name": "컴투스홀딩스 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://com2us.com/holdings"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "robots_unavailable",
       "url": "https://com2us.com/holdings"
     },
     {
-      "checked_at": "2026-10-23T10:37:17.557676+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2466,14 +2447,19 @@
       "matched": 0,
       "mode": "html",
       "name": "텐센트코리아 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.tencent.co.kr/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "network_error",
       "url": "https://www.tencent.co.kr/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2483,31 +2469,50 @@
       "matched": 0,
       "mode": "html",
       "name": "투빗 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.tobeitcorp.com/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "network_error",
       "url": "https://www.tobeitcorp.com/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_ae0e33c874c5",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "한빛소프트 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.hanbitsoft.co.kr/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.hanbitsoft.co.kr/"
+        },
+        {
+          "final_url": "https://www.hanbitsoft.co.kr/recruit/info",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.hanbitsoft.co.kr/recruit/info"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.hanbitsoft.co.kr/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2517,14 +2522,19 @@
       "matched": 0,
       "mode": "html",
       "name": "해긴 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.haegin.kr/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "robots_unavailable",
       "url": "https://www.haegin.kr/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2534,48 +2544,69 @@
       "matched": 0,
       "mode": "html",
       "name": "CCP Games · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.ccpgames.com/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "robots_unavailable",
       "url": "https://www.ccpgames.com/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_b93caf95c99a",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "HAEON STUDIO · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.haeon.io/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.haeon.io/"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.haeon.io/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_f6dff0c4e611",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "JUNEiNTER · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://portal.juneinter.com/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://portal.juneinter.com/"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://portal.juneinter.com/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2585,31 +2616,44 @@
       "matched": 0,
       "mode": "html",
       "name": "RING GAMES · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.ringgames.com/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "network_error",
       "url": "https://www.ringgames.com/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_c8df525c39c8",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "Yeop Studio · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://yeopstudio.my.canva.site/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://yeopstudio.my.canva.site/"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://yeopstudio.my.canva.site/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2619,48 +2663,81 @@
       "matched": 0,
       "mode": "html",
       "name": "나딕게임즈 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.naddic.com/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "network_error",
       "url": "https://www.naddic.com/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_62f7ca91484d",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "네시삼십삼분 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.433.co.kr/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.433.co.kr/"
+        },
+        {
+          "final_url": "https://www.433.co.kr/careers",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.433.co.kr/careers"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.433.co.kr/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_6847457fcf5b",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "네오게임즈 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.neogames.co.kr/main.html.ko.php",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.neogames.co.kr/"
+        },
+        {
+          "final_url": "https://www.neogames.co.kr/main.html",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.neogames.co.kr/main.html"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.neogames.co.kr/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -2670,27 +2747,40 @@
       "matched": 0,
       "mode": "html",
       "name": "넥써쓰 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.to.nexus/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "robots_unavailable",
       "url": "https://www.to.nexus/"
     },
     {
-      "checked_at": "2026-10-23T18:19:31.445652+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_9e1f576c1c5d",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T18:19:31.445652+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "넷마블몬스터 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.netmarble.net/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.netmarble.net/"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.netmarble.net/"
     },
     {
@@ -2789,15 +2879,10 @@
       "matched": 0,
       "mode": "html",
       "name": "레드브릭 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "network_error",
-          "url": "https://www.redbrick.space/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "network_error",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.redbrick.space/"
     },
     {
@@ -2811,18 +2896,10 @@
       "matched": 0,
       "mode": "html",
       "name": "링크드 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.linkedseoul.com/ko",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.linkedseoul.com/"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.linkedseoul.com/"
     },
     {
@@ -2836,18 +2913,10 @@
       "matched": 0,
       "mode": "html",
       "name": "무브인터렉티브 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.moveint.io/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.moveint.io/"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.moveint.io/"
     },
     {
@@ -2861,15 +2930,10 @@
       "matched": 0,
       "mode": "html",
       "name": "블리자드엔터테인먼트코리아 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "network_error",
-          "url": "https://www.blizzard.co.kr/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "network_error",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.blizzard.co.kr/"
     },
     {
@@ -2883,24 +2947,10 @@
       "matched": 0,
       "mode": "html",
       "name": "소프톤엔터테인먼트 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.softon.co.kr/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.softon.co.kr/"
-        },
-        {
-          "final_url": "https://www.softon.co.kr/recruit/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.softon.co.kr/recruit"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.softon.co.kr/"
     },
     {
@@ -2914,18 +2964,10 @@
       "matched": 0,
       "mode": "html",
       "name": "소프트젠 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.softzen.co.kr/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.softzen.co.kr/"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.softzen.co.kr/"
     },
     {
@@ -2939,24 +2981,10 @@
       "matched": 0,
       "mode": "html",
       "name": "스타코링크 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.stacolink.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.stacolink.com/"
-        },
-        {
-          "final_url": "https://www.stacolink.com/s5/s5_1.php",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.stacolink.com/s5/s5_1.php"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.stacolink.com/"
     },
     {
@@ -2970,15 +2998,10 @@
       "matched": 0,
       "mode": "html",
       "name": "애닉/베스파 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "network_error",
-          "url": "https://www.vespainc.com/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "network_error",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.vespainc.com/"
     },
     {
@@ -2988,29 +3011,15 @@
       "discovered": 0,
       "id": "studio_5927ab5c9e26",
       "last_detail_error": "http_500",
-      "last_detail_success": "2026-10-24T00:44:20.782414+09:00",
+      "last_detail_success": "2026-10-24T10:34:07.743406+09:00",
       "last_listing_success": "2026-10-24T00:44:20.782414+09:00",
       "matched": 2,
       "mode": "html",
       "name": "액토즈소프트 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.actoz.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.actoz.com/"
-        },
-        {
-          "final_url": "https://www.actoz.com/recruit/careers",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.actoz.com/recruit/careers"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.actoz.com/"
     },
     {
@@ -3024,18 +3033,10 @@
       "matched": 0,
       "mode": "html",
       "name": "앵커노드 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.anchornode.io/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.anchornode.io/"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.anchornode.io/"
     },
     {
@@ -3049,15 +3050,10 @@
       "matched": 0,
       "mode": "html",
       "name": "어썸코드 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "network_error",
-          "url": "https://www.awesomecode.co.kr/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "network_error",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.awesomecode.co.kr/"
     },
     {
@@ -3071,15 +3067,10 @@
       "matched": 0,
       "mode": "html",
       "name": "에픽게임즈코리아 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "robots_unavailable",
-          "url": "https://www.epicgames.com/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "robots_unavailable",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.epicgames.com/"
     },
     {
@@ -3093,24 +3084,10 @@
       "matched": 0,
       "mode": "html",
       "name": "엔엑스쓰리게임즈 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.nx3games.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.nx3games.com/"
-        },
-        {
-          "final_url": "https://www.nx3games.com/Talent",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.nx3games.com/Talent"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.nx3games.com/"
     },
     {
@@ -3124,15 +3101,10 @@
       "matched": 0,
       "mode": "html",
       "name": "엠게임 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "network_error",
-          "url": "https://www.mgame.com/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "network_error",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.mgame.com/"
     },
     {
@@ -3146,15 +3118,10 @@
       "matched": 0,
       "mode": "html",
       "name": "워게이밍코리아 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "robots_unavailable",
-          "url": "https://worldoftanks.asia/ko/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "robots_unavailable",
+      "status": "scheduled_rotation_skip",
       "url": "https://worldoftanks.asia/ko/"
     },
     {
@@ -3168,15 +3135,10 @@
       "matched": 0,
       "mode": "html",
       "name": "웹젠온네트 · 홈페이지 경로 탐색",
-      "pages": [
-        {
-          "rendered": false,
-          "status": "robots_unavailable",
-          "url": "https://www.onnet.co.kr/"
-        }
-      ],
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "robots_unavailable",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.onnet.co.kr/"
     },
     {
@@ -3190,24 +3152,10 @@
       "matched": 0,
       "mode": "html",
       "name": "위메이드맥스 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://www.wemademax.com/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.wemademax.com/"
-        },
-        {
-          "final_url": "https://www.wemademax.com/wemademax_recruit_jobs",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://www.wemademax.com/wemademax_recruit_jobs"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://www.wemademax.com/"
     },
     {
@@ -3221,39 +3169,45 @@
       "matched": 0,
       "mode": "html",
       "name": "이스트게임즈 · 홈페이지 경로 탐색",
-      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
-      "pages": [
-        {
-          "final_url": "https://estgames.co.kr/company/",
-          "rendered": false,
-          "status": "html_received",
-          "url": "https://estgames.co.kr/company/"
-        }
-      ],
-      "render_status": "browser_page_budget_reached",
+      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
+      "pages": [],
       "source_class": "corporate_discovery",
-      "status": "no_extractable_links",
+      "status": "scheduled_rotation_skip",
       "url": "https://estgames.co.kr/company/"
     },
     {
-      "checked_at": "2026-10-23T10:37:17.557676+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
       "id": "studio_f13f1acb8aee",
       "last_detail_success": null,
-      "last_listing_success": "2026-10-23T10:37:17.557676+09:00",
+      "last_listing_success": "2026-10-24T10:34:07.743406+09:00",
       "matched": 0,
       "mode": "html",
       "name": "이엔피게임즈 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "note": "Bounded public-root/portal/detail discovery; not full-site coverage. Zero links does not establish zero vacancies.",
+      "pages": [
+        {
+          "final_url": "https://www.enpgames.co.kr/",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.enpgames.co.kr/"
+        },
+        {
+          "final_url": "https://www.enpgames.co.kr/recruit/recruit_welfare.html",
+          "rendered": false,
+          "status": "html_received",
+          "url": "https://www.enpgames.co.kr/recruit/recruit_welfare.html"
+        }
+      ],
+      "render_status": "browser_page_budget_reached",
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "no_extractable_links",
       "url": "https://www.enpgames.co.kr/"
     },
     {
-      "checked_at": "2026-10-23T10:37:17.557676+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -3263,14 +3217,41 @@
       "matched": 0,
       "mode": "html",
       "name": "잼팟 · 홈페이지 경로 탐색",
-      "note": "Listed for broad discovery; scheduled for another rotation. NOT checked on this run.",
-      "pages": [],
+      "pages": [
+        {
+          "rendered": false,
+          "status": "robots_unavailable",
+          "url": "https://www.zempot.com/"
+        }
+      ],
       "source_class": "corporate_discovery",
-      "status": "scheduled_rotation_skip",
+      "status": "robots_unavailable",
       "url": "https://www.zempot.com/"
     },
     {
-      "checked_at": "2026-10-24T00:44:20.782414+09:00",
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
+      "detail_attempts": 0,
+      "detail_verified": 0,
+      "discovered": 0,
+      "id": "studio_bbce097fd7a6",
+      "last_detail_success": null,
+      "last_listing_success": null,
+      "matched": 0,
+      "mode": "html",
+      "name": "창유닷컴코리아 · 홈페이지 경로 탐색",
+      "pages": [
+        {
+          "rendered": false,
+          "status": "network_error",
+          "url": "https://www.cyougame.kr/"
+        }
+      ],
+      "source_class": "corporate_discovery",
+      "status": "network_error",
+      "url": "https://www.cyougame.kr/"
+    },
+    {
+      "checked_at": "2026-10-24T10:34:07.743406+09:00",
       "detail_attempts": 0,
       "detail_verified": 0,
       "discovered": 0,
@@ -3287,7 +3268,7 @@
     }
   ],
   "unverified_candidates": [],
-  "verified_detail_records": 109,
+  "verified_detail_records": 118,
   "version": 4,
   "warning": "Broadened rotating discovery, NOT exhaustive market coverage. Only successful listing/detail checks count; check source failures."
 }

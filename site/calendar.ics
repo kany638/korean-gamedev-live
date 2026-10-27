@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:c51ee8f98ca555a872c5c58c@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -37,7 +37,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8252fb126d9e62b3628aff16@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -50,7 +50,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: 근무지 확인 필요\n확인 방식: direct_pag
- e_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ e_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.kog.co.kr/recruit/apply?uid=138\n자
@@ -63,7 +63,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20cef3895edc5090f7e4711d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -76,7 +76,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: 근무지 확인 필요\n확인 방식: direct_pag
- e_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ e_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.kog.co.kr/recruit/apply?uid=144\n자
@@ -89,7 +89,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:59f90e57a78df93cb486491c@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -102,7 +102,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: 근무지 확인 필요\n확인 방식: direct_pag
- e_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ e_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.kog.co.kr/recruit/apply?uid=168\n자
@@ -115,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9cea3f8dece2f939bb85f30f@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -128,7 +128,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: 근무지 확인 필요\n확인 방식: direct_pag
- e_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ e_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.kog.co.kr/recruit/apply?uid=206\n자
@@ -141,7 +141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:753b5a41756aaa4f9500d6c9@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261016T090016Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261014
@@ -170,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7efe80ac1df530430b73bec7@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -197,7 +197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:302a5280884228c42c8ea8f3@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -214,7 +214,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  자격 확인\n기졸업자: 인턴 졸업자 자격 확인 필요 (졸업
  예정만으로 기졸업 자격 확정 불가)\n근무지: 근무지 확
  인 필요\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2
- 026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09
+ 026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09
  :00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://www.p
  earlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=427\n자동 규
@@ -228,7 +228,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0eb589a66f1fa54058e84eb5@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -242,8 +242,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  요\n적합성: C++ / Unreal / 게임플레이 우선\n기졸업자: 재
  학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근
  무지: 펄어비스 홈 원 (경기도 과천시 과천대로2길 48)\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02
- :21:12.927748+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 
+ 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11
+ :02:29.849867+09:00\n첫 발견: 2026-10-12T17:46:01.710277+09:00\n마감 
  근거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://www.pearlabyss.co
  m/ko-KR/Company/Careers/detail?_jobOpeningNo=562\n자동 규칙 분류. 
@@ -257,7 +257,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff1a102aa73c567987829e23@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -271,7 +271,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  eal / 게임플레이 우선\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: 펄어비스 홈 원
   (경기도 과천시 과천대로2길 48)\n확인 방식: direct_page_par
- sed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발
+ sed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발
  견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확인\
  n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://www.pearlabyss.com/ko-KR/Company/Careers/detai
@@ -284,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1405b6ac332cea9ac026f46a@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261012T084601Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
@@ -298,7 +298,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  Unreal / 게임플레이 우선\n기졸업자: 재학생 전용 제한 미
  발견 · 학위/비자 등은 원문 확인\n근무지: 펄어비스 홈 
  원 (경기도 과천시 과천대로2길 48)\n확인 방식: direct_page_
- parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-12T17:46:01.710277+09:00\n마감 근거: 마감일 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://www.pearlabyss.com/ko-KR/Company/Careers
@@ -311,7 +311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a871d791d067eb46a3af410e@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261023T154420Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261014
@@ -339,7 +339,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9f98e64d3d8844f100100e4c@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -354,7 +354,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  ity/C#/서버/툴 등 기술스택 확인\n기졸업자: 재학생 전용 
  제한 미발견 · 학위/비자 등은 원문 확인\n근무지: 슈퍼
  패스트 제주\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.775
+ 인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.775
  544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 
  시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https:
  //111percent.career.greetinghr.com/ko/o/223882\n자동 규칙 분류. 학
@@ -367,7 +367,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4c16697d8b7d5b3b3e2c1a86@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261015T153543Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -395,7 +395,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:32eab3200584edb72601c1e3@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -410,7 +410,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  직무 및 졸업자 자격 확인\n기졸업자: 인턴 졸업자 자격 
  확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)\n근
  무지: 슈퍼패스트 성수\n확인 방식: direct_page_parsed\n최근 
- 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-1
+ 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-1
  3T15:23:15.775544+09:00\n마감 근거: 마감일 미확인\n공고 시각
  : 정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n
  출처: https://111percent.career.greetinghr.com/ko/o/235993\n자동 규
@@ -423,7 +423,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9dfb632135d3e666ab2f3587@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -449,7 +449,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:356070ebf5c969552363b67f@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -476,7 +476,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:273a56dcb6e4de599eade2ff@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -503,7 +503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:42a4007b0bdffc518667833d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -530,7 +530,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd50fdefc6336924955aa3ec@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -557,7 +557,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b759d4429e91332a4ec08481@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261025T145724Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -585,7 +585,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:b59272fdf04c88cfd5c26ca8@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -613,7 +613,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:369def0beefb2f773ad4503b@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -641,7 +641,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:954f2959d5db29585aa1d8dd@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -667,7 +667,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:603caf040b80f6a99f892ddd@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -694,7 +694,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf5905a94698e9f07b276ab@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -721,7 +721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:81b424703607cb1eee7ec9e9@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -748,7 +748,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e464639c8520b24ca2ae0f@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -775,7 +775,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2cc266a52650720cc9eefea2@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -802,7 +802,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13b133d1a5c18c3ed24bed0c@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -829,7 +829,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7086257a36257845dfc3b152@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261015
@@ -857,7 +857,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce9196ccf206db1c397972b6@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T172751Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261015
@@ -871,7 +871,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  규직 외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 
  스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/
  비자 등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식:
-  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+
+  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+
  09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 마감
  일 미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는
   자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpo
@@ -886,7 +886,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9904196fc0676c5999e874cf@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T172751Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261015
@@ -900,7 +900,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택 
  확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct
- _page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n
+ _page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n
  첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 마감일 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?
@@ -915,7 +915,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b334f5bd1d9665f771701efa@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T033156Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -943,7 +943,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7289836c1bfed8fd90cb7508@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -961,7 +961,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  진/프로그래밍 · 스택 확인\n기졸업자: 재학생 전용 제
  한 미발견 · 학위/비자 등은 원문 확인\n근무지: 근무지 
  확인 필요\n확인 방식: direct_page_parsed\n최근 원문/API 확인
- : 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T20:43:54.398618
+ : 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T20:43:54.398618
  +09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 시
  각 미확인\; 종일표시는 자정 마감이 아님\n출처: https://w
  ww.actoz.com/recruit/careers/200?cpage=1\n자동 규칙 분류. 학위/비
@@ -974,7 +974,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:833e0d6b3a49aad8dfd430ec@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1002,7 +1002,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7cc0513ae5c9a9bb82cb20c4@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1020,7 +1020,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  진/프로그래밍 · 스택 확인\n기졸업자: 재학생 전용 제
  한 미발견 · 학위/비자 등은 원문 확인\n근무지: 근무지 
  확인 필요\n확인 방식: direct_page_parsed\n최근 원문/API 확인
- : 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T20:43:54.398618
+ : 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T20:43:54.398618
  +09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한 시
  각 미확인\; 종일표시는 자정 마감이 아님\n출처: https://w
  ww.actoz.com/recruit/careers/211?cpage=1\n자동 규칙 분류. 학위/비
@@ -1033,7 +1033,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7528f780f91f5df8128a673@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T155438Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -1046,8 +1046,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  거: \n고용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 
  등 기술스택 확인\n기졸업자: 재학생 전용 제한 미발견 
  · 학위/비자 등은 원문 확인\n근무지: 서울 > 서초구\n확
- 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21
- :12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
+ 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02
+ :29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
  거: 마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종
  일표시는 자정 마감이 아님\n출처: https://job.incruit.com/jobd
  b_info/jobpost.asp?job=2609220000820&src=gsw%2Aetc\n자동 규칙 분류. 
@@ -1061,7 +1061,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47360bd8d091a564b56155bd@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1073,7 +1073,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학생
   전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지:
   서울 > 금천구\n확인 방식: direct_page_parsed\n최근 원문/API 
- 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.
+ 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.
  775544+09:00\n마감 근거: 마감일 미확인\n공고 시각: 정확한
   시각 미확인\; 종일표시는 자정 마감이 아님\n출처: https
  ://job.incruit.com/jobdb_info/jobpost.asp?job=2610100000203&src=gsw%2Aetc\
@@ -1087,7 +1087,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39c43b8cf506da7d9d8c573d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1114,7 +1114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:556871457913a487b0e610eb@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1141,7 +1141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f5f3d58e580c41ff70e55bff@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1168,7 +1168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:82e2291644967da53837b21a@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T015329Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -1197,7 +1197,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:e795d6ed32727e5e836480ee@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T172751Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261015
@@ -1225,7 +1225,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:364f862c48d2dc801fcf27fd@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1252,7 +1252,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f811010cb33a34eea50d13aa@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1280,7 +1280,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:560f4a99ca4132428ff25dcb@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261015
@@ -1308,7 +1308,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1968f307875183333239a793@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T092939Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261016
@@ -1335,7 +1335,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:201830b7fd51118df0ba6aa7@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T092939Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261016
@@ -1362,7 +1362,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:992044f1a64fe20ecae08199@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261023T154420Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261016
@@ -1376,7 +1376,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 졸업자 자
  격 확인 필요 (졸업예정만으로 기졸업 자격 확정 불가)\n
  근무지: 서울 > 강남구\n확인 방식: direct_page_parsed\n최근 
- 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-1
+ 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-1
  4T18:29:39.431990+09:00\n마감 근거: 마감일 미확인\n공고 시각
  : 정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n
  출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000964&s
@@ -1390,7 +1390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cfb3e2dd664b8f5cd734dc37@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T154914Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261017
@@ -1416,7 +1416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:deeac3de96b72d398d68b0f3@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T155438Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261017
@@ -1430,8 +1430,8 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  고용: 정규직\n적합성: 게임 클라이언트/엔진/프로그래
  밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
  학위/비자 등은 원문 확인\n근무지: 서울 > 강남구\n확인 
- 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.
- 927748+09:00\n첫 발견: 2026-10-15T10:26:54.733632+09:00\n마감 근거:
+ 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.
+ 849867+09:00\n첫 발견: 2026-10-15T10:26:54.733632+09:00\n마감 근거:
   마감일 미확인\n공고 시각: 정확한 시각 미확인\; 종일
  표시는 자정 마감이 아님\n출처: https://job.incruit.com/jobdb_i
  nfo/jobpost.asp?job=2609220001062&src=gsw%2Aetc\n자동 규칙 분류. 학
@@ -1445,7 +1445,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09069cdbebe799d80b32a4eb@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T101340Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261017
@@ -1460,7 +1460,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  및 졸업자 자격 확인\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: 펄어비스 홈 원
   (경기도 과천대로 2길 48 펄어비스 홈 원)\n확인 방식: dir
- ect_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:0
+ ect_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:0
  0\n첫 발견: 2026-10-15T18:07:30.934383+09:00\n마감 근거: 마감일 
  미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자
  정 마감이 아님\n출처: https://www.pearlabyss.com/ko-KR/Company/Car
@@ -1475,7 +1475,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e64f5485d7b5c7af4a97f22b@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:11
 DTSTART;VALUE=DATE:20261018
@@ -1490,7 +1490,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
   프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: 카카오게임즈\n확인 방식: direct_page_par
- sed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발
+ sed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발
  견: 2026-10-16T18:00:16.894404+09:00\n마감 근거: 마감일 미확인\
  n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://recruit.kakaogames.com/ko/o/240729\n자동 규
@@ -1503,7 +1503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5381d5ed7b6cf10065055f50@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:11
 DTSTART;VALUE=DATE:20261018
@@ -1518,7 +1518,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  램 · 프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 
  인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자
  격 확정 불가)\n근무지: 카카오게임즈\n확인 방식: direct_p
- age_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n
+ age_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n
  첫 발견: 2026-10-16T18:00:16.894404+09:00\n마감 근거: 마감일 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://recruit.kakaogames.com/ko/o/240744\n자
@@ -1531,7 +1531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb007473ab2e18cce93662ec@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:11
 DTSTART;VALUE=DATE:20261018
@@ -1546,7 +1546,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  그램 · 프로그래밍 직무 및 졸업자 자격 확인\n기졸업자
  : 인턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 
  자격 확정 불가)\n근무지: 카카오게임즈\n확인 방식: direc
- t_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\
+ t_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\
  n첫 발견: 2026-10-16T18:00:16.894404+09:00\n마감 근거: 마감일 
  미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자
  정 마감이 아님\n출처: https://recruit.kakaogames.com/ko/o/240749\n
@@ -1559,7 +1559,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:816c19da5891802eadabbfad@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:11
 DTSTART;VALUE=DATE:20261018
@@ -1574,7 +1574,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 졸업
  자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 
  불가)\n근무지: 카카오게임즈\n확인 방식: direct_page_parsed\
- n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2
+ n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2
  026-10-16T18:00:16.894404+09:00\n마감 근거: 마감일 미확인\n공
  고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 
  아님\n출처: https://recruit.kakaogames.com/ko/o/240754\n자동 규칙 
@@ -1587,7 +1587,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db733acfa2485e111cacc1e2@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T095102Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
@@ -1615,7 +1615,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:60b9ca21263d326fe4cf5259@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T095102Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
@@ -1642,7 +1642,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2886f7ffe4a782b67faa4a60@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T095102Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
@@ -1669,7 +1669,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:99d6fccc4a92335cef7bdf50@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T095102Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
@@ -1696,7 +1696,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4fb817ccf2bf3a6090cdc156@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T095102Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
@@ -1723,7 +1723,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4cf22386a25bfaf86138a27@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T172751Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261019
@@ -1752,7 +1752,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:601305d6bac89bdaaa79c374@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261022
@@ -1766,7 +1766,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택 
  확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct
- _page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n
+ _page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n
  첫 발견: 2026-10-20T10:48:22.528109+09:00\n마감 근거: 마감일 미
  확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
   마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?
@@ -1781,7 +1781,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:61b78637f3b5fab088ff3561@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261022
@@ -1795,7 +1795,7 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
  규직 외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 
  스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/
  비자 등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식:
-  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+
+  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+
  09:00\n첫 발견: 2026-10-20T10:48:22.528109+09:00\n마감 근거: 마감
  일 미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는
   자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpo
@@ -1810,7 +1810,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee432ab87e7dc3819d529b42@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261019T172751Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261022
@@ -1838,7 +1838,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f94a225be36130368c0acc6c@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261021T092037Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261021
@@ -1866,7 +1866,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:64d12feff0dfc56af6748f61@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T092321Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261024
@@ -1893,7 +1893,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bbdd307e0b09ab180183c25d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261023
@@ -1923,7 +1923,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a76532837330de26c706a4f2@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T010811Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261025
@@ -1951,7 +1951,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:3f98bd99837494f451984a03@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T101340Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
@@ -1975,16 +1975,10 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=286347
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:기어세컨드 · 검토 · [기어세컨드] 서버 프로그
- 래머 전환형 인턴
-TRIGGER;VALUE=DATE-TIME:20261027T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a941ccd98697d925332c17a6@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T101340Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
@@ -2008,16 +2002,80 @@ DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고
 URL:https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=286362
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dda2381aabd7369fabd15613@gamedev-live.example
+DTSTAMP:20261027T020229Z
+LAST-MODIFIED:20261027T020229Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:베스트네트워크 · 검토 · 05. Game Security S/W Engineer [
+ 유명 IT/
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: 베스트네트워크\n직무: 05. Game Security
+  S/W Engineer [유명 IT/Tech 기업]\n경력: 신입 표시와 경력 필
+ 수요건 충돌 · 확인 필요\n경력 근거: 5년\n고용: 정규직 
+ 외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 스택 
+ 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
+ 등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식: direct
+ _page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n
+ 첫 발견: 2026-10-27T11:02:29.849867+09:00\n마감 근거: 마감일 미
+ 확인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정
+  마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?
+ job=2610260003833&src=gsw%2Aetc\n자동 규칙 분류. 학위/비자/졸
+ 업연도 등 최종 자격은 원문 검토.\n모든 사이트/공고의 
+ 완전수집 또는 자격 충족을 보장하지 않음. 지원 전 원
+ 문 확인.
+URL:https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260003833&src=gs
+ w%2Aetc
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:넥슨 · 도전·검토 · [기술본부] 데이터 온톨로
- 지/지식그래프 엔지니어
-TRIGGER;VALUE=DATE-TIME:20261027T000000Z
+DESCRIPTION:베스트네트워크 · 검토 · 05. Game Security S/W Engine
+ er [유명 IT/
+TRIGGER;VALUE=DATE-TIME:20261028T000000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a32fe9490aae3c4d1ca49647@gamedev-live.example
+DTSTAMP:20261027T020229Z
+LAST-MODIFIED:20261027T020229Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:베스트네트워크 · 검토 · 05. Mobile Game Security S/W Eng
+ ineer 
+DESCRIPTION:첫 발견 후 검토 알림: 실제 마감일 아님 / 공고 
+ 등록일 아님\n회사: 베스트네트워크\n직무: 05. Mobile Game S
+ ecurity S/W Engineer [유명 IT/Tech기업]\n경력: 신입 표시와 경
+ 력 필수요건 충돌 · 확인 필요\n경력 근거: 5년\n고용: 정
+ 규직 외\n적합성: 게임 클라이언트/엔진/프로그래밍 · 
+ 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/
+ 비자 등은 원문 확인\n근무지: 서울 > 강남구\n확인 방식:
+  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+
+ 09:00\n첫 발견: 2026-10-27T11:02:29.849867+09:00\n마감 근거: 마감
+ 일 미확인\n공고 시각: 정확한 시각 미확인\; 종일표시는
+  자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpo
+ st.asp?job=2610260003832&src=gsw%2Aetc\n자동 규칙 분류. 학위/비
+ 자/졸업연도 등 최종 자격은 원문 검토.\n모든 사이트/공
+ 고의 완전수집 또는 자격 충족을 보장하지 않음. 지원 
+ 전 원문 확인.
+URL:https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260003832&src=gs
+ w%2Aetc
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:베스트네트워크 · 검토 · 05. Mobile Game Security S/W
+  Engineer 
+TRIGGER;VALUE=DATE-TIME:20261028T000000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d7abdf3a37e703dd3c6edff0@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261027
@@ -2044,7 +2102,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:502c219c762bfaf6c971bf92@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T012934Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261027
@@ -2072,7 +2130,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:3254d2691c71f54942081398@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T010811Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
@@ -2086,7 +2144,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 네이버클라우드\n
  자 자격 확인\n기졸업자: 인턴 졸업자 자격 확인 필요 (
  졸업예정만으로 기졸업 자격 확정 불가)\n근무지: KR 경
  기도 성남시\n확인 방식: direct_page_parsed\n최근 원문/API 확
- 인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-26T10:08:11.686
+ 인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-26T10:08:11.686
  412+09:00\n마감 근거: 공고 지원기간 종료일 · 시각 미확
  인\n공고 시각: 정확한 시각 미확인\; 종일표시는 자정 
  마감이 아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?j
@@ -2098,16 +2156,10 @@ URL:https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190005243&src=gs
  w%2Aetc
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:네이버클라우드 · 마감 · [NAVER Cloud] Video Generati
- on 연구/개발 (
-TRIGGER;VALUE=DATE-TIME:20261027T000000Z
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9d516c54efac6fb74dc026e1@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261030
@@ -2146,7 +2198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:477ee941ef7ec6a365931422@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261031
@@ -2159,8 +2211,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넥슨코리아\n직무
   프로그램 · 프로그래밍 직무 및 졸업자 자격 확인\n기
  졸업자: 인턴 졸업자 자격 확인 필요 (졸업예정만으로 
  기졸업 자격 확정 불가)\n근무지: KR 경기도 성남시\n확인
-  방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12
- .927748+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거
+  방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29
+ .849867+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거
  : 공고 지원기간 종료일 · 시각 미확인\n공고 시각: 정확
  한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처: ht
  tps://job.incruit.com/jobdb_info/jobpost.asp?job=2610010000254&src=gsw%2Ae
@@ -2186,7 +2238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9f477dbcc4484b80837a056@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261023T013717Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261031
@@ -2225,9 +2277,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fe01fec285ea5394ebd4657a@gamedev-live.example
-DTSTAMP:20261026T172112Z
-LAST-MODIFIED:20261025T145724Z
-SEQUENCE:0
+DTSTAMP:20261027T020229Z
+LAST-MODIFIED:20261027T020229Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:엔씨 · 도전·마감 · [Horizon Steel Frontiers] 엔진 프로
@@ -2238,7 +2290,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 엔씨\n직무: [Horizo
  합성: 게임 클라이언트/엔진/프로그래밍 · 스택 확인\n
  기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: KR 경기도 성남시\n확인 방식: direct_pa
- ge_parsed\n최근 원문/API 확인: 2026-10-25T23:57:24.837547+09:00\n첫
+ ge_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫
   발견: 2026-10-25T23:57:24.837547+09:00\n마감 근거: 공고 지원기
  간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://job.incruit
@@ -2265,9 +2317,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d412ac32e9d38d702ee1f046@gamedev-live.example
-DTSTAMP:20261026T172112Z
-LAST-MODIFIED:20261026T172112Z
-SEQUENCE:2
+DTSTAMP:20261027T020229Z
+LAST-MODIFIED:20261027T020229Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:엔씨 · 마감 · [프로젝트 SC] 서버 프로그래머 모집
@@ -2277,7 +2329,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 엔씨\n직무: [프로
  보조 분야 · Unity/C#/서버/툴 등 기술스택 확인\n기졸업자
  : 재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\
  n근무지: KR 경기도 성남시\n확인 방식: direct_page_parsed\n최
- 근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-
+ 근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-
  10-25T23:57:24.837547+09:00\n마감 근거: 공고 지원기간 종료일 
  · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 종일표
  시는 자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info
@@ -2304,7 +2356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:284522d7bf49fe30d9b0a469@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T092939Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261031
@@ -2332,7 +2384,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:a197da8bdb405c50d1e540e9@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261021T092037Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261103
@@ -2372,9 +2424,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1b49e7b2ce4bec3b52cee930@gamedev-live.example
-DTSTAMP:20261026T172112Z
-LAST-MODIFIED:20261025T145724Z
-SEQUENCE:0
+DTSTAMP:20261027T020229Z
+LAST-MODIFIED:20261027T020229Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:엔씨 · 마감 · [Project NL] 차세대 리니지 프로젝트 
@@ -2385,8 +2437,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 엔씨\n직무: [Projec
  용: 정규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술
  스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/
  비자 등은 원문 확인\n근무지: KR 경기도 성남시\n확인 방
- 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-25T23:57:24.837
- 547+09:00\n첫 발견: 2026-10-25T23:57:24.837547+09:00\n마감 근거: 
+ 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849
+ 867+09:00\n첫 발견: 2026-10-25T23:57:24.837547+09:00\n마감 근거: 
  공고 지원기간 종료일 · 시각 미확인\n공고 시각: 정확
  한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처: ht
  tps://job.incruit.com/jobdb_info/jobpost.asp?job=2609080000049&src=gsw%2Ae
@@ -2412,7 +2464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1bde494783e5d3c458c22adc@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261106
@@ -2425,8 +2477,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: 서
  용: 정규직\n적합성: 게임 클라이언트/엔진/프로그래밍 
  · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학
  위/비자 등은 원문 확인\n근무지: KR 서울특별시 금천구\n
- 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02
- :21:12.927748+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:00\n마감 
+ 확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11
+ :02:29.849867+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:00\n마감 
  근거: 공고 지원기간 종료일 · 시각 미확인\n공고 시각: 
  정확한 시각 미확인\; 종일표시는 자정 마감이 아님\n출
  처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2609090000049&src=
@@ -2452,7 +2504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1e5799337688b131a4f8c192@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261107
@@ -2466,7 +2518,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: [일
  그래밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발
  견 · 학위/비자 등은 원문 확인\n근무지: KR 서울특별시 
  금천구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 20
- 26-10-25T23:57:24.837547+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:
+ 26-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:
  00\n마감 근거: 공고 지원기간 종료일 · 시각 미확인\n공
  고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 
  아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2609100
@@ -2492,7 +2544,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6313220cc7df53f0168b9878@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261108
@@ -2506,7 +2558,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넥슨코리아\n직무
  /프로그래밍 · 스택 확인\n기졸업자: 재학생 전용 제한 
  미발견 · 학위/비자 등은 원문 확인\n근무지: KR 경기도 
  성남시\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 20
- 26-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:
+ 26-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:
  00\n마감 근거: 공고 지원기간 종료일 · 시각 미확인\n공
  고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 
  아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2610090
@@ -2532,7 +2584,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5315ecdcfa8d938f327f191d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261108
@@ -2560,7 +2612,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:e73cd04357c0d4819db713d5@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T172112Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261109
@@ -2600,7 +2652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb50d0dbf9b1a92c94d93d9@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261112
@@ -2613,8 +2665,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 네오플\n직무: [Ove
  거: 5년\n고용: 정규직\n적합성: C++ / Unreal / 게임플레이 
  우선\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: KR 제주특별자치도 제주시\n확
- 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21
- :12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
+ 인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02
+ :29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근
  거: 공고 지원기간 종료일 · 시각 미확인\n공고 시각: 정
  확한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처:
   https://job.incruit.com/jobdb_info/jobpost.asp?job=2609150000059&src=gsw%
@@ -2640,7 +2692,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6e01531b436b7aa75ea6c6f4@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T010811Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261115
@@ -2679,7 +2731,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5277245e5e5bad9a785ff1e8@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261017T083215Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261115
@@ -2692,7 +2744,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 카카오게임즈\n직
  프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: KR 경기도 성남시\n확인 방식: direct_page
- _parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ _parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-17T17:32:15.584827+09:00\n마감 근거: 공고 지원기
  간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://job.incruit
@@ -2719,7 +2771,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7ba2ecb38661bb79ff7ea058@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261017T083215Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261115
@@ -2732,7 +2784,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 카카오게임즈\n직
   프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 
  졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확
  정 불가)\n근무지: KR 경기도 성남시\n확인 방식: direct_page
- _parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 
+ _parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 
  발견: 2026-10-17T17:32:15.584827+09:00\n마감 근거: 공고 지원기
  간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://job.incruit
@@ -2759,7 +2811,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b866ea5dc07f93530e236ea8@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261017T083215Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261115
@@ -2772,7 +2824,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 카카오게임즈\n직
  그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 졸업
  자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 
  불가)\n근무지: KR 경기도 성남시\n확인 방식: direct_page_par
- sed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발
+ sed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발
  견: 2026-10-17T17:32:15.584827+09:00\n마감 근거: 공고 지원기간 
  종료일 · 시각 미확인\n공고 시각: 정확한 시각 미확인\;
   종일표시는 자정 마감이 아님\n출처: https://job.incruit.com/
@@ -2799,7 +2851,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac48fe4b673f55cf9af86a7@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261017T083215Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261115
@@ -2812,7 +2864,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 카카오게임즈\n직
   · 프로그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인
  턴 졸업자 자격 확인 필요 (졸업예정만으로 기졸업 자격
   확정 불가)\n근무지: KR 경기도 성남시\n확인 방식: direct_
- page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n
+ page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n
  첫 발견: 2026-10-17T17:32:15.584827+09:00\n마감 근거: 공고 지원
  기간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 미
  확인\; 종일표시는 자정 마감이 아님\n출처: https://job.incr
@@ -2839,7 +2891,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca94e10940717cb3be52cf5@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T114354Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261116
@@ -2874,7 +2926,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:728ddae382172a5b5211dc57@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261119
@@ -2914,7 +2966,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a7fdc2357cc788c0d2b0ac48@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261120
@@ -2953,7 +3005,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f891433b91c2d1c4b6ee94a@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261026T010811Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261120
@@ -2965,7 +3017,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: AI A
  이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학생
   전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무지:
   KR 서울특별시 금천구\n확인 방식: direct_page_parsed\n최근 
- 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-2
+ 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-2
  6T10:08:11.686412+09:00\n마감 근거: 공고 지원기간 종료일 · 
  시각 미확인\n공고 시각: 정확한 시각 미확인\; 종일표시
  는 자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info/jo
@@ -2990,7 +3042,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f6e65ac73c9ef4a25e672aa8@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261122
@@ -3002,7 +3054,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: EA KOREA\n직무: Gamep
  규직\n적합성: C++ / Unreal / 게임플레이 우선\n기졸업자: 
  재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
  근무지: KR 서울특별시 강남구\n확인 방식: direct_page_parsed
- \n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 
+ \n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 
  2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고 지원기간 종
  료일 · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://job.incruit.com/j
@@ -3027,7 +3079,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:31a1d378affe466d53737b8f@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T092321Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261122
@@ -3067,7 +3119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b8796eebfb6aed1b6be241b8@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261126
@@ -3080,8 +3132,8 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: [야
  규직\n적합성: 보조 분야 · Unity/C#/서버/툴 등 기술스택 
  확인\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 
  등은 원문 확인\n근무지: KR 서울특별시 금천구\n확인 방
- 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927
- 748+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 
+ 식: direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849
+ 867+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 
  공고 지원기간 종료일 · 시각 미확인\n공고 시각: 정확
  한 시각 미확인\; 종일표시는 자정 마감이 아님\n출처: ht
  tps://job.incruit.com/jobdb_info/jobpost.asp?job=2609290000014&src=gsw%2Ae
@@ -3107,7 +3159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9ad36e45131cd5d81942d607@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261128
@@ -3120,7 +3172,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 크래프톤\n직무: [
  로그래밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미
  발견 · 학위/비자 등은 원문 확인\n근무지: KR 서울특별
  시 강남구\n확인 방식: direct_page_parsed\n최근 원문/API 확인
- : 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.775544
+ : 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.775544
  +09:00\n마감 근거: 공고 지원기간 종료일 · 시각 미확인\n
  공고 시각: 정확한 시각 미확인\; 종일표시는 자정 마감
  이 아님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=261
@@ -3146,7 +3198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4643b04ea9596fcd0fd0f309@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261128
@@ -3187,7 +3239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cee75b29912243ac6a09f147@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261023T154420Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261128
@@ -3200,7 +3252,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 크래프톤\n직무: [
  그래밍 직무 및 졸업자 자격 확인\n기졸업자: 인턴 졸업
  자 자격 확인 필요 (졸업예정만으로 기졸업 자격 확정 
  불가)\n근무지: KR 서울특별시 강남구\n확인 방식: direct_pa
- ge_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫
+ ge_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫
   발견: 2026-10-24T00:44:20.782414+09:00\n마감 근거: 공고 지원기
  간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 미확
  인\; 종일표시는 자정 마감이 아님\n출처: https://job.incruit
@@ -3227,7 +3279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fea2443028338ca68b466b6d@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261129
@@ -3241,7 +3293,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 네오플\n직무: [인
  · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 학
  위/비자 등은 원문 확인\n근무지: KR 제주특별자치도 제
  주시\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-
- 10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:00\
+ 10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-21T00:39:07.619697+09:00\
  n마감 근거: 공고 지원기간 종료일 · 시각 미확인\n공고 
  시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
  님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2610020000
@@ -3267,7 +3319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:525b5ea5dab7c175dfae0c97@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261022T155438Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261130
@@ -3281,7 +3333,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 엔씨\n직무: 디지
  로그래밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미
  발견 · 학위/비자 등은 원문 확인\n근무지: KR 경기도 성
  남시\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-
- 10-27T02:21:12.927748+09:00\n첫 발견: 2026-10-23T00:54:38.360699+09:00\
+ 10-27T11:02:29.849867+09:00\n첫 발견: 2026-10-23T00:54:38.360699+09:00\
  n마감 근거: 공고 지원기간 종료일 · 시각 미확인\n공고 
  시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
  님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2610030000
@@ -3307,7 +3359,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2bab9701af5acc36dd4eceb6@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261204
@@ -3320,7 +3372,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 아이아이컴바인
  규직\n적합성: C++ / Unreal / 게임플레이 우선\n기졸업자: 
  재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
  근무지: KR 서울특별시 마포구\n확인 방식: direct_page_parsed
- \n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 
+ \n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 
  2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고 지원기간 종
  료일 · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://job.incruit.com/j
@@ -3347,7 +3399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:483e472a163c1f7828945a77@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261204
@@ -3360,7 +3412,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 아이아이컴바인
  용: 정규직\,계약직\n적합성: C++ / Unreal / 게임플레이 우
  선\n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등
  은 원문 확인\n근무지: KR 서울특별시 마포구\n확인 방식:
-  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+
+  direct_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+
  09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n마감 근거: 공고
   지원기간 종료일 · 시각 미확인\n공고 시각: 정확한 시
  각 미확인\; 종일표시는 자정 마감이 아님\n출처: https://j
@@ -3387,7 +3439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9363c870bba5e349fbe73326@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261204
@@ -3400,7 +3452,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: 웹
  합성: 게임 클라이언트/엔진/프로그래밍 · 스택 확인\n
  기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: KR 서울특별시 금천구\n확인 방식: dir
- ect_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:0
+ ect_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:0
  0\n첫 발견: 2026-10-21T00:39:07.619697+09:00\n마감 근거: 공고 지
  원기간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://job.i
@@ -3427,7 +3479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0c2ca63ed356615139550790@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261204
@@ -3440,7 +3492,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 컴투스\n직무: 웹
  임 클라이언트/엔진/프로그래밍 · 스택 확인\n기졸업자:
   재학생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n
  근무지: KR 서울특별시 금천구\n확인 방식: direct_page_parsed
- \n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 
+ \n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 
  2026-10-21T00:39:07.619697+09:00\n마감 근거: 공고 지원기간 종
  료일 · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 
  종일표시는 자정 마감이 아님\n출처: https://job.incruit.com/j
@@ -3467,7 +3519,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0e616a4c22abb286e7a80862@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261014T154914Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261214
@@ -3505,7 +3557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b65db0b8c578b27172b4caed@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261220
@@ -3544,7 +3596,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1a5e21c1a8fb43b7589b805@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T092411Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261220
@@ -3582,7 +3634,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7d7afcbaac9d3702d40e7e96@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261025T145724Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261231
@@ -3595,7 +3647,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넷마블컴퍼니\n직
  적합성: 게임 클라이언트/엔진/프로그래밍 · 스택 확인\
  n기졸업자: 재학생 전용 제한 미발견 · 학위/비자 등은 
  원문 확인\n근무지: KR 서울특별시 구로구\n확인 방식: dir
- ect_page_parsed\n최근 원문/API 확인: 2026-10-27T02:21:12.927748+09:0
+ ect_page_parsed\n최근 원문/API 확인: 2026-10-27T11:02:29.849867+09:0
  0\n첫 발견: 2026-10-25T23:57:24.837547+09:00\n마감 근거: 공고 지
  원기간 종료일 · 시각 미확인\n공고 시각: 정확한 시각 
  미확인\; 종일표시는 자정 마감이 아님\n출처: https://job.i
@@ -3622,7 +3674,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a941b6d1bbbb313daef46246@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261020T153907Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261231
@@ -3635,7 +3687,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넷마블컴퍼니\n직
  라이언트/엔진/프로그래밍 · 스택 확인\n기졸업자: 재학
  생 전용 제한 미발견 · 학위/비자 등은 원문 확인\n근무
  지: KR 서울특별시 구로구\n확인 방식: direct_page_parsed\n최
- 근 원문/API 확인: 2026-10-27T02:21:12.927748+09:00\n첫 발견: 2026-
+ 근 원문/API 확인: 2026-10-27T11:02:29.849867+09:00\n첫 발견: 2026-
  10-21T00:39:07.619697+09:00\n마감 근거: 공고 지원기간 종료일 
  · 시각 미확인\n공고 시각: 정확한 시각 미확인\; 종일표
  시는 자정 마감이 아님\n출처: https://job.incruit.com/jobdb_info
@@ -3662,7 +3714,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1d2e632a9deefa9c6f065ca2@gamedev-live.example
-DTSTAMP:20261026T172112Z
+DTSTAMP:20261027T020229Z
 LAST-MODIFIED:20261013T062315Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261231
@@ -3676,7 +3728,7 @@ DESCRIPTION:실제 공고/API의 마감일\n회사: 넷마블컴퍼니\n직
  밍 · 스택 확인\n기졸업자: 재학생 전용 제한 미발견 · 
  학위/비자 등은 원문 확인\n근무지: KR 서울특별시 구로
  구\n확인 방식: direct_page_parsed\n최근 원문/API 확인: 2026-10-
- 27T02:21:12.927748+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n
+ 27T11:02:29.849867+09:00\n첫 발견: 2026-10-13T15:23:15.775544+09:00\n
  마감 근거: 공고 지원기간 종료일 · 시각 미확인\n공고 
  시각: 정확한 시각 미확인\; 종일표시는 자정 마감이 아
  님\n출처: https://job.incruit.com/jobdb_info/jobpost.asp?job=2609290005
